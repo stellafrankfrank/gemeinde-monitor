@@ -1,0 +1,58 @@
+name: Gemeinde-Websites überwachen
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 5,17 * * *"
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten installieren
+        run: pip install requests beautifulsoup4
+
+      - name: Gemeinde-Websites prüfen
+        id: monitor
+        continue-on-error: true
+        run: |
+          python monitor.py
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Änderungen als GitHub-Issue melden
+        if: steps.monitor.outputs.exit_code == '2'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Änderungen auf Gemeinde-Websites – $(date -u +'%Y-%m-%d %H:%M UTC')" \
+            --body-file changes.md
+
+      - name: Neuen Stand speichern
+        run: |
+          git config user.name "gemeinde-monitor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add state.json changes.md
+
+          if git diff --cached --quiet; then
+            echo "Nichts zu speichern."
+          else
+            git commit -m "Monitoring-Stand aktualisieren"
+            git push
+          fi
