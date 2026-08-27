@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "15 5,17 * * *"
 
+# Verhindert, dass zwei Überwachungen gleichzeitig laufen
+concurrency:
+  group: gemeinde-monitor
+  cancel-in-progress: false
+
 permissions:
   contents: write
   issues: write
@@ -16,6 +21,8 @@ jobs:
     steps:
       - name: Repository laden
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python einrichten
         uses: actions/setup-python@v5
@@ -54,5 +61,6 @@ jobs:
             echo "Nichts zu speichern."
           else
             git commit -m "Monitoring-Stand aktualisieren"
+            git pull --rebase origin main
             git push
           fi
