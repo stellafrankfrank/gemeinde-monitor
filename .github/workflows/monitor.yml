@@ -34,12 +34,24 @@ jobs:
 
       - name: Gemeinde-Websites prüfen
         id: monitor
-        continue-on-error: true
         run: |
+          set +e
           python monitor.py
           code=$?
+          set -e
+
           echo "exit_code=$code" >> "$GITHUB_OUTPUT"
-          exit 0
+
+          if [ "$code" -eq 0 ]; then
+            echo "Keine Änderungen gefunden."
+            exit 0
+          elif [ "$code" -eq 2 ]; then
+            echo "Änderungen gefunden."
+            exit 0
+          else
+            echo "Monitor ist mit einem echten Fehler fehlgeschlagen: $code"
+            exit "$code"
+          fi
 
       - name: Änderungen als GitHub-Issue melden
         if: steps.monitor.outputs.exit_code == '2'
