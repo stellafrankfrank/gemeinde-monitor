@@ -1,103 +1,21 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.xn--twann-tscherz-2ob.ch/
-
-### Geänderte Seiten
-- https://www.xn--twann-tscherz-2ob.ch/
-
-### Neue Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/2967286
-
-### Nicht mehr gefundene Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/2953486
-
 ## https://www.ligerz.ch/
 
 ### Geänderte Seiten
-- https://www.asmobil.ch/de/oeffentlicher-verkehr/betriebsmeldungen/geplante-betriebseinschraenkungen/standseilbahn-vinifuni-unterbruch.html
+- https://www.ligerz.ch/
+- https://www.ligerz.ch/datenschutz
 
-## https://www.jens.ch/de/willkommen/
+### Neue Seiten
+- https://www.ligerz.ch/abfalldaten/7218200
 
-### Geänderte Seiten
-- https://www.jens.ch/de/willkommen/
+### Nicht mehr gefundene Seiten
+- https://www.ligerz.ch/anlaesseaktuelles/7645267
 
 ## https://hermrigen.ch/
 
-### Neue Seiten
-- https://hermrigen.ch/
-- https://hermrigen.ch/ab-maerz-2020-koennen-sie-uns-ihr-baugesuch-elektronisch-einreichen/
-- https://hermrigen.ch/adresse/betreibungsamt/
-- https://hermrigen.ch/adresse/burgergemeinde-hermrigen/
-- https://hermrigen.ch/adresse/f-grunder-gmbh/
-- https://hermrigen.ch/adresse/fuss-oase/
-- https://hermrigen.ch/adresse/geoplanteam-ag-thierry-aeschlimann/
-- https://hermrigen.ch/adresse/harmony-fuer-haende-und-fuesse/
-- https://hermrigen.ch/adresse/kreisgrundbuchamt-ii-biel-nidau/
-- https://hermrigen.ch/adresse/mietamt/
-- https://hermrigen.ch/adresse/muetter-und-vaeterberatung/
-- https://hermrigen.ch/adresse/regio-feuerwehr-aarberg/
-- https://hermrigen.ch/adresse/sozialabteilung-aarberg/
-- https://hermrigen.ch/adresse/spielgruppe-halli-hallo/
-- https://hermrigen.ch/adresse/tierschutzverein-biel-bienne-seeland-jura-bernios/
-- https://hermrigen.ch/adresse/ucl-ag-treuhand/
-- https://hermrigen.ch/adresse/wildhueter/
-- https://hermrigen.ch/adressen/
-- https://hermrigen.ch/adressen/?filter_adresskategorie=links
-- https://hermrigen.ch/adressen/?filter_adresskategorie=notfaelle
-- https://hermrigen.ch/adressen/?filter_adresskategorie=soziales
-- https://hermrigen.ch/adressen/?filter_adresskategorie=unternehmen
-- https://hermrigen.ch/adressen/?filter_adresskategorie=verwaltung
-- https://hermrigen.ch/aktuelles/
-- https://hermrigen.ch/asiatische-hornisse/
-- https://hermrigen.ch/aus-dem-gemeinderat-dezember-2024/
-- https://hermrigen.ch/aus-dem-gemeinderat-januar-2025/
-- https://hermrigen.ch/aus-dem-gemeinderat-juni-2025/
-- https://hermrigen.ch/aus-dem-gemeinderat-juni-ii/
-- https://hermrigen.ch/aus-dem-gemeinderat-maerz-2025/
-- https://hermrigen.ch/aus-dem-gemeinderat-november-2024/
-- https://hermrigen.ch/benuetzung-schulhaus-hermrigen-merzligen/
-- https://hermrigen.ch/datenschutz/
-- https://hermrigen.ch/feuerungskontrolle-seit-1-august-2025/
-- https://hermrigen.ch/freizeit/
-- https://hermrigen.ch/gemeinderat/
-- https://hermrigen.ch/gemeinderat/gemeindeversammlung/
-- https://hermrigen.ch/gesuch-um-gastgewerbliche-einzelbewilligung-neu-online/
-- https://hermrigen.ch/hermriger-mittagstraeff-2026/
-- https://hermrigen.ch/impression-seniorenausflug-vom-5-september-2023/
-- https://hermrigen.ch/impressum/
-- https://hermrigen.ch/information-liberalisierung-feuerungskontrollen/
-- https://hermrigen.ch/informationen-aus-dem-gemeinderat-maerz-2026/
-- https://hermrigen.ch/informationen-aus-dem-gemeinderat-november-2025/
-- https://hermrigen.ch/informationen-aus-dem-gemeinderat-oktober-2025/
-- https://hermrigen.ch/informationen-schule-hermrigen-merzligen-jens/
-- https://hermrigen.ch/informationen-zum-amtlichen-anzeiger/
-- https://hermrigen.ch/jahr-des-igels/
-- https://hermrigen.ch/jungbuergerfeier-2023/
-- https://hermrigen.ch/kampagne-gegen-plastik-in-der-gruenabfuhr/
-- https://hermrigen.ch/kirchenzettel-der-ref-kirchgemeinde-taeuffelen/
+### Geänderte Seiten
 - https://hermrigen.ch/kontakt/
-- https://hermrigen.ch/medienmitteilung-niederlegung-finanzverwaltungsmandat/
-- https://hermrigen.ch/medienmitteilung-zur-gemeindeversammlung-vom-25-juni-2025/
-- https://hermrigen.ch/neu-bezahlung-via-twint-moeglich/
-- https://hermrigen.ch/newsbeitrag-y/
-- https://hermrigen.ch/obacht-am-schacht-praeventionskampagne-fuer-gewaesserschutz/
-- https://hermrigen.ch/oeffnungszeiten-ab-11-august-2025/
-- https://hermrigen.ch/portrait/
-- https://hermrigen.ch/portrait/geschichte/
-- https://hermrigen.ch/portrait/kirchen/
-- https://hermrigen.ch/portrait/schule/
-- https://hermrigen.ch/protokoll-der-gemeindeversammlung-vom-3-juni-2026/
-- https://hermrigen.ch/sammelstelle-beim-werkhof-in-der-budlei/
-- https://hermrigen.ch/steuererklaerungsdienst-pro-senectute-kanton-bern/
-- https://hermrigen.ch/tagesschule-in-jens-2/
-- https://hermrigen.ch/tagesschule-in-jens/
-- https://hermrigen.ch/teilrevision-der-ortsplanung/
-- https://hermrigen.ch/verwaltung/
-- https://hermrigen.ch/verwaltung/beauftrage/
-- https://hermrigen.ch/verwaltung/dienstleistungen/
-- https://hermrigen.ch/verwaltung/downloads/
-- https://hermrigen.ch/waermebildaktion-energieberatung-seeland-2025-26-bis-2026-27/
-- https://hermrigen.ch/zauberlaterne-lyss/
 
 ## https://epsach.ch/
 
@@ -135,24 +53,21 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
-### Nicht mehr gefundene Seiten
-- https://epsach.ch/geringfuegige-zonenplanaenderung-parzelle-nr-990-oeffentliche-auflage/
-
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
-- https://www.walperswil.ch/de/aktuelles/dorfzyt/
-
-### Neue Seiten
-- https://www.walperswil.ch/de/aktuelles/dorfzyt/?pageId=2
-
-### Nicht mehr gefundene Seiten
-- https://www.walperswil.ch/de/aktuelles/dorfzyt/?searchTerm=&pageId=2
+- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
+- https://www.walperswil.ch/de/verwaltung/formulare.php
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
+
+## https://www.bruettelen.ch/
+
+### Geänderte Seiten
+- https://www.bruettelen.ch/datenschutzdf
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -162,14 +77,14 @@
 - https://www.muentschemier.ch/index.php?apid=1575868884&apparentid=1328612653
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
-- https://www.muentschemier.ch/index.php?apid=2099268525&apparentid=1884828324
+- https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
 - https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
 
 ### Neue Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=387b868fe99fa992a090fcb0e1bbbf8f&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=b40fab0dd8914a0eca3bb92bc858b6bf&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
 
 ### Nicht mehr gefundene Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=17358bd4e2669d95ac36714daf86c0ca&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=387b868fe99fa992a090fcb0e1bbbf8f&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
 
 ## https://www.ins.ch/
 
@@ -184,11 +99,18 @@
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2062
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2122
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2181
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
+- https://www.ins.ch/de/verwaltung/dienstleistungen/
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
@@ -215,20 +137,78 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=118
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=119
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=137
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=149
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=151
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=152
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=155
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=171
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=173
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=181
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=201
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=202
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=206
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=21
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=213
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=214
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=25
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=27
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=37
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=39
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=4
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=41
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=48
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=5
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=50
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=51
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=59
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=6
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=60
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=64
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=66
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=7
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=72
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=75
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=76
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=79
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=8
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=80
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
-### Neue Seiten
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
+### Nicht mehr gefundene Seiten
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/
-- https://www.erlach.ch/de/aktuelles/
+- https://www.erlach.ch/de/impressum/
+- https://www.erlach.ch/de/sitemap/
+- https://www.erlach.ch/de/veranstaltungen/617_sommermarkt--amp;-begegnung-stedtli-erlach
+- https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
-### Neue Seiten
-- https://www.erlach.ch/de/aktuelles/meldungen/Carsharing.php
+## https://www.kerzers.ch/
 
-### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/aktuelles/meldungen/Wanderweg-Seewaeldli-gesperrt.php
+### Geänderte Seiten
+- https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-1
+- https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-seelandhalle-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-1
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-waldhuette-0
+- https://www.kerzers.ch/index.php/online-benuetzungsgesuch-chutzenhuette
+- https://www.kerzers.ch/node/560
+- https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
