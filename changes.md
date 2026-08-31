@@ -4,39 +4,14 @@
 
 ### Geänderte Seiten
 - https://www.asmobil.ch/de/oeffentlicher-verkehr/betriebsmeldungen/geplante-betriebseinschraenkungen/standseilbahn-vinifuni-unterbruch.html
-
-## https://www.sutz-lattrigen.ch/de/
-
-### Geänderte Seiten
-- https://www.sutz-lattrigen.ch/de/aktuelles/
-- https://www.sutz-lattrigen.ch/de/aktuelles/?categories%5B%5D=240156240156
-- https://www.sutz-lattrigen.ch/de/aktuelles/meldungen/Feuer-und-Feuerwerksverbot.php
-- https://www.sutz-lattrigen.ch/de/aktuelles/meldungen/Gefahr-im-Wald.php
-- https://www.sutz-lattrigen.ch/de/aktuelles/meldungen/Jassplauschturnier-2026.php
-- https://www.sutz-lattrigen.ch/de/aktuelles/meldungen/Stellenausschreibung-Schulleitung.php
-- https://www.sutz-lattrigen.ch/de/aktuelles/meldungen/Stellenausschreibung-Schulverband-Oberstufenzentrum-Taeuffelen.php
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=450
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=451
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=465
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=475
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=483
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=484
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=502
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=503
-
-## https://www.jens.ch/de/willkommen/
-
-### Geänderte Seiten
-- https://www.jens.ch/de/aktuell/agenda/
-- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=08&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=9ae4a6cc8fe575a772acc85987c3838d
-- https://www.jens.ch/de/leben-freizeit/agenda/
-- https://www.jens.ch/de/willkommen/
+- https://www.ligerz.ch/
+- https://www.ligerz.ch/datenschutz
 
 ### Neue Seiten
-- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=114&cHash=dacae9fc4cbb48c4c89f17326fbbe71a
+- https://www.ligerz.ch/aktuellesinformationen/2725325
 
 ### Nicht mehr gefundene Seiten
-- https://www.jens.ch/de/aktuell/agenda/details/feldschuetzen-jens-jubilaeum/
+- https://www.ligerz.ch/aktuellesinformationen/2945032
 
 ## https://hermrigen.ch/
 
@@ -79,27 +54,64 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
-## https://www.walperswil.ch/de/
-
-### Geänderte Seiten
-- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
-- https://www.walperswil.ch/de/verwaltung/formulare.php
-
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
+- https://hagneck.ch/aktuelles/
 - https://hagneck.ch/kontakt/
+
+## https://www.luescherz.ch/startseite
+
+### Geänderte Seiten
+- https://www.luescherz.ch/aktuell/news
+- https://www.luescherz.ch/aktuell/news-archiv
+- https://www.luescherz.ch/aktuell/news-archiv/2
+- https://www.luescherz.ch/aktuell/news-archiv/3
+- https://www.luescherz.ch/aktuell/news-archiv/5
+- https://www.luescherz.ch/aktuell/news-archiv/6
+- https://www.luescherz.ch/aktuell/news-archiv/7
+- https://www.luescherz.ch/aktuell/news-archiv/8
+
+### Neue Seiten
+- https://www.luescherz.ch/aktuell/news-archiv/archiv-details/teilrevision-ortsplanung-aenderung-bau-und-nutzungsreglement-und-erlass-zonenplan-gewaesserraum
+
+### Nicht mehr gefundene Seiten
+- https://www.luescherz.ch/aktuell/news-archiv/archiv-details/aenderung-zonenplan-gewaesserraum-infolge-materieller-aenderung-aufgrund-genehmigungsverfahren
+
+## https://www.bruettelen.ch/
+
+### Geänderte Seiten
+- https://www.bruettelen.ch/
+- https://www.bruettelen.ch/datenschutzdf
+
+### Neue Seiten
+- https://www.bruettelen.ch/anlaesseaktuelles/7110599
+- https://www.bruettelen.ch/anlaesseaktuelles/7223507
+
+### Nicht mehr gefundene Seiten
+- https://www.bruettelen.ch/anlaesseaktuelles/6931510
+- https://www.bruettelen.ch/anlaesseaktuelles/7607563
 
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
 ### Geänderte Seiten
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Adventsmaerit.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Gewerbeverein-Muentschemier.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Treite-Choerli.php
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -113,18 +125,16 @@
 - https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
 
 ### Neue Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=3171f95eb9ac5e39a9100e0d579a7cb6&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=653531c1e4d9d7de09abf2a2b140e296&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
+- https://www.muentschemier.ch/index.php?apid=874637292&apparentid=5187671
 
 ### Nicht mehr gefundene Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=0e2c706f1819bd642e17696b7f35dea4&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=3171f95eb9ac5e39a9100e0d579a7cb6&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568
+- https://www.muentschemier.ch/index.php?apid=287887059&apparentid=5187671
 
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/
-- https://www.ins.ch/?fnsContrast=1
-- https://www.ins.ch/de/
-- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Gemeindeversammlung-16.10.2026.php
@@ -135,41 +145,23 @@
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/sitemap/
-- https://www.ins.ch/de/veranstaltungen/
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
-
-### Neue Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2179
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
-
-### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2133
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=T
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
 
 ## https://www.erlach.ch/de/
 
+### Geänderte Seiten
+- https://www.erlach.ch/de/
+- https://www.erlach.ch/de/veranstaltungen/
+
 ### Neue Seiten
-- https://www.erlach.ch/de/index.php
+- https://www.erlach.ch/de/veranstaltungen/618_sommermarkt--amp;-begegnung-stedtli-erlach-bis-12.9.
+- https://www.erlach.ch/de/veranstaltungen/640_golden-hour
 
 ### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/veranstaltungen/549_flohm%C3%A4rit-erlach
-- https://www.erlach.ch/de/veranstaltungen/624_sunday-brunch
-
-## https://www.kerzers.ch/
-
-### Geänderte Seiten
-- https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
-- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
-- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-1
-- https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
-- https://www.kerzers.ch/index.php/benuetzungsgesuch-seelandhalle-0
-- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-0
-- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-1
-- https://www.kerzers.ch/index.php/benuetzungsgesuch-waldhuette-0
-- https://www.kerzers.ch/index.php/online-benuetzungsgesuch-chutzenhuette
-- https://www.kerzers.ch/node/560
-- https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
-- https://www.kerzers.ch/user/password
+- https://www.erlach.ch/de/index.php
