@@ -1,23 +1,18 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.ligerz.ch/
+## https://www.jens.ch/de/willkommen/
 
 ### Geänderte Seiten
-- https://www.asmobil.ch/de/oeffentlicher-verkehr/betriebsmeldungen/geplante-betriebseinschraenkungen/standseilbahn-vinifuni-unterbruch.html
-- https://www.ligerz.ch/datenschutz
-
-## https://www.sutz-lattrigen.ch/de/
-
-### Geänderte Seiten
-- https://www.sutz-lattrigen.ch/de/
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/?navid=843225843225
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/?navid=900528900528
+- https://www.jens.ch/de/aktuell/agenda/
+- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=09&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=ce17c4e80da516009724203bd5e9c2ab
+- https://www.jens.ch/de/leben-freizeit/agenda/
+- https://www.jens.ch/de/willkommen/
 
 ### Neue Seiten
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=476
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=110&cHash=ffa3c15d69cf0237ab6d9f8466f4740a
 
 ### Nicht mehr gefundene Seiten
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=483
+- https://www.jens.ch/de/aktuell/agenda/details/feldschuetzen-jens-ausschiessen-1/
 
 ## https://hermrigen.ch/
 
@@ -61,46 +56,15 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
-## https://www.walperswil.ch/de/
-
-### Geänderte Seiten
-- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
-- https://www.walperswil.ch/de/verwaltung/formulare.php
-
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://www.luescherz.ch/startseite
-
-### Geänderte Seiten
-- https://www.luescherz.ch/aktuell/news-archiv/2
-- https://www.luescherz.ch/aktuell/news-archiv/7
-
-## https://www.bruettelen.ch/
-
-### Geänderte Seiten
-- https://www.bruettelen.ch/
-- https://www.bruettelen.ch/datenschutzdf
-
-### Neue Seiten
-- https://www.bruettelen.ch/aktuellesinformationen/2844301
-
-### Nicht mehr gefundene Seiten
-- https://www.bruettelen.ch/aktuellesinformationen/2966818
-
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
 ### Geänderte Seiten
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Gewerbeverein-Muentschemier.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Hochzeitschuetzen.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -128,9 +92,6 @@
 - https://www.ins.ch/de/impressum/
 - https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2129
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2153
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2164
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
@@ -150,12 +111,9 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=T
@@ -163,7 +121,6 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
@@ -214,24 +171,29 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
-### Neue Seiten
+### Nicht mehr gefundene Seiten
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/
-- https://www.erlach.ch/de/veranstaltungen/
-- https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
-- https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
+- https://www.erlach.ch/de/barrierefrei/
+- https://www.erlach.ch/de/datenschutz/
+- https://www.erlach.ch/de/datenschutz/index.php
+- https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.erlach.ch/de/veranstaltungen/577_referat-mit-alex-k%C3%BChni-%E2%80%93-einblick-in-die-arbeit-als-kriegsfotograf
+- https://www.erlach.ch/de/veranstaltungen/601_nacht-der-sterne
+- https://www.erlach.ch/de/veranstaltungen/619_letzter-sommermarkt--amp;-begegnung-in-dieser-saison-im-stedtli-erlach
+- https://www.erlach.ch/de/veranstaltungen/640_golden-hour
+- https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
+- https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 
 ### Neue Seiten
-- https://www.erlach.ch/de/veranstaltungen/577_referat-mit-alex-k%C3%BChni-%E2%80%93-einblick-in-die-arbeit-als-kriegsfotograf
-- https://www.erlach.ch/de/veranstaltungen/619_letzter-sommermarkt--amp;-begegnung-in-dieser-saison-im-stedtli-erlach
+- https://www.erlach.ch/de/index.php
 
 ### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/index.php
-- https://www.erlach.ch/de/veranstaltungen/576_bar--amp;-disco
+- https://www.erlach.ch/de/veranstaltungen/618_sommermarkt--amp;-begegnung-stedtli-erlach-bis-12.9.
 
 ## https://www.kerzers.ch/
 
