@@ -1,5 +1,10 @@
 # Änderungen auf Gemeinde-Websites
 
+## https://www.ligerz.ch/
+
+### Geänderte Seiten
+- https://www.ligerz.ch/datenschutz
+
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
@@ -45,44 +50,56 @@
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
-- https://www.walperswil.ch/de/verwaltung/formulare.php
+- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
+- https://www.walperswil.ch/de/verwaltung/onlineschalter.php
+
+### Neue Seiten
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=1
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=13
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=29
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=30
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=31
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=39
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=40
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=9
+
+### Nicht mehr gefundene Seiten
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/10_ausweis-%C3%BCber-den-registrierten-familienstand---bestellen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/12_heirat-und-eingetragene-partnerschaft
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/13_familienausweis---bestellen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/14_personenstandsausweis---bestellen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/1_abfallentsorgung
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/20_m%C3%BCtter--und-v%C3%A4terberatungsstelle---informationen-einholen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/2_ahv-zweigstelle---informationen-
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/32_jugendfachstelle
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/40_versichertenausweis-(ahv-karte)---bestellen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/41_sozialhilfe---beantragen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/47_trinkwasser---informationen-einholen
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/48_kindergarten-
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/50_obligatorische-schulzeit
+- https://www.walperswil.ch/de/verwaltung/dienstleistungen/9_pass-und-identit%C3%A4tskarte
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
-- https://hagneck.ch/aktuelles/
 - https://hagneck.ch/kontakt/
-
-### Neue Seiten
-- https://hagneck.ch/poststelle-taeuffelen-filiale-mit-partner-bei-swidro-drogerie-ab-28-09-2026/
-
-## https://www.luescherz.ch/startseite
-
-### Geänderte Seiten
-- https://www.luescherz.ch/aktuell/news
-- https://www.luescherz.ch/startseite
-
-### Neue Seiten
-- https://www.luescherz.ch/aktuell/news/news-details/wanderwege-hofmannsflue-gesperrt
-
-### Nicht mehr gefundene Seiten
-- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Strassenbeleuchtung?cHash=aa2d24a0dccc59daa4c4144013b16959
-
-## https://finsterhennen.ch/
-
-### Geänderte Seiten
-- https://finsterhennen.ch/news
 
 ## https://www.bruettelen.ch/
 
 ### Geänderte Seiten
-- https://www.bruettelen.ch/
+- https://www.bruettelen.ch/datenschutzdf
 
-### Neue Seiten
-- https://www.bruettelen.ch/aktuellesinformationen/2977078
+## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
-### Nicht mehr gefundene Seiten
-- https://www.bruettelen.ch/aktuellesinformationen/2844301
+### Geänderte Seiten
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Adventsmaerit.php
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -94,11 +111,6 @@
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
 - https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
-
-## https://vinelz.ch/
-
-### Geänderte Seiten
-- https://vinelz.ch/aktuelles
 
 ## https://www.ins.ch/
 
@@ -113,160 +125,55 @@
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
+- https://www.ins.ch/de/sitemap/
+- https://www.ins.ch/de/vereinsverzeichnis/
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=T
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=U
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
+
+### Neue Seiten
+- https://www.ins.ch/de/gemeinde/wirtschaft-und-gewerbe/detail/detail.php
+
+### Nicht mehr gefundene Seiten
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=118
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=119
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=137
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=149
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=151
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=152
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=155
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=171
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=173
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=181
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=201
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=202
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=206
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=21
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=213
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=214
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=25
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=27
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=37
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=39
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=4
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=41
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=48
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=5
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=50
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=51
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=59
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=6
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=60
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=64
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=66
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=7
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=72
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=75
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=76
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=79
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=80
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/veranstaltungen/
-
-## https://tschugg.ch/
-
-### Geänderte Seiten
-- https://tschugg.ch/
-- https://tschugg.ch/aktuell/informationen-und-termine/
-- https://tschugg.ch/bildung/bibliothek/
-- https://tschugg.ch/bildung/kindergarten-primarschule/
-- https://tschugg.ch/bildung/musikschule-seeland/
-- https://tschugg.ch/bildung/oberstufenschule/
-- https://tschugg.ch/bildung/spielgruppe/
-- https://tschugg.ch/bildung/tagesschule/
-- https://tschugg.ch/energie-und-verkehr/energie/
-- https://tschugg.ch/energie-und-verkehr/oeffentlicher-verkehr/
-- https://tschugg.ch/freizeit-und-tourismus/attraktionen/
-- https://tschugg.ch/freizeit-und-tourismus/mehrzweckgebaeude/
-- https://tschugg.ch/freizeit-und-tourismus/rebbau-in-tschugg/
-- https://tschugg.ch/freizeit-und-tourismus/swin-golf/
-- https://tschugg.ch/freizeit-und-tourismus/vereine/
-- https://tschugg.ch/freizeit-und-tourismus/wanderung-jolimont/
-- https://tschugg.ch/gemeindeverwaltung/ahv-zweigstelle-jolimont/
-- https://tschugg.ch/gemeindeverwaltung/gemeindepersonal/
-- https://tschugg.ch/gemeindeverwaltung/gemeindeverwaltung/
-- https://tschugg.ch/gemeindeverwaltung/gemeindeverwaltung/?id=12
-- https://tschugg.ch/gemeindeverwaltung/mitteilungsblatt/
-- https://tschugg.ch/gemeindeverwaltung/wichtige-adressen/
-- https://tschugg.ch/gewerbe/lokales-gewerbe/
-- https://tschugg.ch/gewerbe/rehaklinik-tschugg/
-- https://tschugg.ch/index.php?id=14
-- https://tschugg.ch/index.php?id=158
-- https://tschugg.ch/notfalltreffpunkte/
-- https://tschugg.ch/online-schalter/abfallentsorgung/
-- https://tschugg.ch/online-schalter/bauwesen/
-- https://tschugg.ch/online-schalter/betreuungsgutscheine/
-- https://tschugg.ch/online-schalter/formulare-gemeinde-und-kanton/
-- https://tschugg.ch/online-schalter/kulturlegi/
-- https://tschugg.ch/online-schalter/oereb-kataster/
-- https://tschugg.ch/online-schalter/paesse-und-identitaetskarten/
-- https://tschugg.ch/online-schalter/reglemente-und-dokumente-gemeinde-tschugg/
-- https://tschugg.ch/online-schalter/senderliste-upc/
-- https://tschugg.ch/politik/gemeinderat/
-- https://tschugg.ch/politik/gemeindeversammlung/
-- https://tschugg.ch/politik/kommissionen/
-- https://tschugg.ch/portraet/geschichte/
-- https://tschugg.ch/portraet/uebersicht/
-- https://tschugg.ch/portraet/video/
-- https://tschugg.ch/portraet/zahlen-und-fakten/
-- https://tschugg.ch/soziales-und-gesundheit/blaues-kreuz-bern/
-- https://tschugg.ch/soziales-und-gesundheit/kantonspolizei/
-- https://tschugg.ch/soziales-und-gesundheit/katholische-pfarrei-ins-taeuffelen/
-- https://tschugg.ch/soziales-und-gesundheit/muetter-und-vaeterberatung/
-- https://tschugg.ch/soziales-und-gesundheit/reformierte-kirche-erlach-tschugg/
-- https://tschugg.ch/soziales-und-gesundheit/regionaler-sozialdienst-erlach/
-- https://tschugg.ch/soziales-und-gesundheit/rotkreuzfahrdienst/
-- https://tschugg.ch/soziales-und-gesundheit/tageseltern-region-erlach/
-- https://tschugg.ch/subnav/impressum-und-datenschutz/
-- https://tschugg.ch/subnav/kontakt/
-- https://tschugg.ch/subnav/links/
-- https://tschugg.ch/subnav/sitemap/
-- https://tschugg.ch/veranstaltungen/gemeindetag/
-- https://tschugg.ch/veranstaltungen/region/
-- https://tschugg.ch/veranstaltungen/tschugg/
-- https://tschugg.ch/wohnen/immobilienmarkt/
-- https://tschugg.ch/wohnen/interaktive-karte/
-- https://tschugg.ch/wohnen/zonenplan/
-
-### Neue Seiten
-- https://tschugg.ch/index.php?id=175
-- https://tschugg.ch/soziales-und-gesundheit/selbsthilfe-be/
-
-### Nicht mehr gefundene Seiten
-- https://tschugg.ch/bildung/schulsozialarbeit/
-- https://tschugg.ch/soziales-und-gesundheit/gesundheits-sozial-und-integrationsdirektion-des-kantons-bern/
-
-## https://gals.ch/
-
-### Geänderte Seiten
-- https://gals.ch/
+- https://www.erlach.ch/de/abfallwirtschaft/abfallkalender/
 
 ## https://www.fraeschels.ch/
 
-### Neue Seiten
-- https://www.fraeschels.ch/news/ergebnisse-nationalratswahl-221023
-- https://www.fraeschels.ch/news/ergebnisse-staenderatswahl-2-wg-121123
-- https://www.fraeschels.ch/news/ergebnisse-staenderatswahl-221023
+### Nicht mehr gefundene Seiten
+- https://www.fraeschels.ch/gemeinde/friedhof
+- https://www.fraeschels.ch/gemeinde/kinder-jugendarbeit
+- https://www.fraeschels.ch/gemeinde/kultur-vereine
+- https://www.fraeschels.ch/gemeinde/natur-freizeit
+- https://www.fraeschels.ch/gemeinde/schule
+- https://www.fraeschels.ch/gemeinde/wasser/trinkwasser
 
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
-- https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
-- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
-- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-1
 - https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
-- https://www.kerzers.ch/node/560
-- https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
-- https://www.kerzers.ch/user/password
