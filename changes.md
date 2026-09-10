@@ -3,19 +3,7 @@
 ## https://www.ligerz.ch/
 
 ### Geänderte Seiten
-- https://www.asmobil.ch/de/oeffentlicher-verkehr/betriebsmeldungen/geplante-betriebseinschraenkungen/standseilbahn-vinifuni-unterbruch.html
-
-## https://merzligen.ch/
-
-### Geänderte Seiten
-- https://merzligen.ch/events/gruenabfuhr/var/ri-10.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-11.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-12.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-13.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-14.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-15.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-16.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-17.l-L1/
+- https://www.ligerz.ch/datenschutz
 
 ## https://hermrigen.ch/
 
@@ -59,15 +47,22 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
+## https://www.walperswil.ch/de/
+
+### Geänderte Seiten
+- https://www.walperswil.ch/de/aktuelles/dorfzyt/?pageId=2
+- https://www.walperswil.ch/de/sitemap/
+- https://www.walperswil.ch/de/verwaltung/formulare.php
+
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://finsterhennen.ch/
+## https://www.bruettelen.ch/
 
 ### Geänderte Seiten
-- https://finsterhennen.ch/news
+- https://www.bruettelen.ch/datenschutzdf
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -78,11 +73,41 @@
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
+- https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
 
-## https://vinelz.ch/
-
-### Geänderte Seiten
-- https://vinelz.ch/aktuelles
+### Nicht mehr gefundene Seiten
+- https://www.muentschemier.ch/index.php?apid=1081425197
+- https://www.muentschemier.ch/index.php?apid=1081425197&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1081425197&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=1168507128
+- https://www.muentschemier.ch/index.php?apid=1168507128&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1168507128&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=1188381800
+- https://www.muentschemier.ch/index.php?apid=1188381800&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1190455788&apparentid=1168507128
+- https://www.muentschemier.ch/index.php?apid=1200193157
+- https://www.muentschemier.ch/index.php?apid=1200193157&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1200193157&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=1305392224&apparentid=1168507128
+- https://www.muentschemier.ch/index.php?apid=1331607163
+- https://www.muentschemier.ch/index.php?apid=1331607163&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1331607163&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=1576568
+- https://www.muentschemier.ch/index.php?apid=1630834121&apparentid=1200193157
+- https://www.muentschemier.ch/index.php?apid=1707601430
+- https://www.muentschemier.ch/index.php?apid=1707601430&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1707601430&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=2103183920
+- https://www.muentschemier.ch/index.php?apid=2103183920&apdo=login
+- https://www.muentschemier.ch/index.php?apid=2103183920&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=436593343
+- https://www.muentschemier.ch/index.php?apid=436593343&apdo=login
+- https://www.muentschemier.ch/index.php?apid=436593343&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=643536967&apparentid=713054126
+- https://www.muentschemier.ch/index.php?apid=769905167&apparentid=1200193157
+- https://www.muentschemier.ch/index.php?apid=911559431
+- https://www.muentschemier.ch/index.php?apid=911559431&apdo=login
+- https://www.muentschemier.ch/index.php?apid=911559431&apparentid=1576568
 
 ## https://www.ins.ch/
 
@@ -97,6 +122,7 @@
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
+- https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2046
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2106
@@ -109,16 +135,20 @@
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 - https://www.ins.ch/de/verwaltung/dienstleistungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=T
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=U
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=E
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
@@ -171,9 +201,6 @@
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/
-- https://www.erlach.ch/de/aktuelles/
-- https://www.erlach.ch/de/aktuelles/meldungen/Feuerverbot-aufgehoben.php
 - https://www.erlach.ch/de/barrierefrei/
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
@@ -191,31 +218,8 @@
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
-### Neue Seiten
-- https://www.erlach.ch/de/aktuelles/meldungen/Infos-aus-der-Gemeinderatssitzung-01.09.2026.php
-- https://www.erlach.ch/de/aktuelles/meldungen/Wasserleitungsbruch-Altstadt.php
-- https://www.erlach.ch/de/aktuelles/meldungen/Wasserleitungsbruch-Burgerweg.php
-
-### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/aktuelles/meldungen/Carsharing.php
-- https://www.erlach.ch/de/aktuelles/meldungen/Wanderweg-Richtung-Gals-gesperrt.php
-- https://www.erlach.ch/de/verwaltung/dienstleistungen/109_regionale-kinder--und-jugendfachstelle-t%C3%A4uffelen---ins---erlach
-
-## https://www.fraeschels.ch/
-
-### Neue Seiten
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-22052017
-- https://www.fraeschels.ch/news/periodische-nachfuehrung-der-amtlichen-vermessung-in-fraeschels
-- https://www.fraeschels.ch/news/protokolle-eidg-abstimmung-kant-ergaenzungswahl-staenderat-260921
-- https://www.fraeschels.ch/news/resultate-kant-wahlen-071121
-
-## https://www.ried.ch/
-
-### Geänderte Seiten
-- https://www.ried.ch/de/verwaltung/Reglemente.php
-
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
-- https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
-- https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
+- https://www.kerzers.ch/node/560
+- https://www.kerzers.ch/user/password
