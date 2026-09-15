@@ -2,14 +2,35 @@
 
 ## https://www.xn--twann-tscherz-2ob.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.xn--twann-tscherz-2ob.ch/aufgabenbereiche
 
-## https://www.ligerz.ch/
+## https://www.jens.ch/de/willkommen/
 
 ### Geänderte Seiten
-- https://www.asmobil.ch/de/oeffentlicher-verkehr/betriebsmeldungen/geplante-betriebseinschraenkungen/standseilbahn-vinifuni-unterbruch.html
-- https://www.ligerz.ch/datenschutz
+- https://www.jens.ch/de/aktuell/agenda/
+- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=09&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=ce17c4e80da516009724203bd5e9c2ab
+- https://www.jens.ch/de/leben-freizeit/agenda/
+- https://www.jens.ch/de/willkommen/
+
+### Neue Seiten
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=110&cHash=ffa3c15d69cf0237ab6d9f8466f4740a
+
+### Nicht mehr gefundene Seiten
+- https://www.jens.ch/de/aktuell/agenda/details/sitzung-des-gemeinderates-1/
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=142&cHash=f699953c13f2edca11969f9d2f0a35d0
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=143&cHash=bf69e8d2e5bf1de14d917dae2450a807
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=144&cHash=25505b7d22dd2ace7383dfd581e20c4b
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=146&cHash=f01105b61896d808916026402ad897b6
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=147&cHash=eef098c1bb4d18c58910f92a202b5506
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=148&cHash=28be21d9672d1994fb36abbe041ea95c
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=149&cHash=10950a640695da4388b4d8926922d51c
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=150&cHash=642c51d77e2182bdbd3423ae7d00a954
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=152&cHash=45528aa8cc37af3335e23a3a209b97c5
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=153&cHash=0d7a9ebbdb9d0b4b7f8747ed0bfdbe29
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=155&cHash=196addcd24627951722f81f1e45b0e2d
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=156&cHash=60eb023781ae5b3e6de02b04ed710fb2
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=157&cHash=d3349301fcb9524944142b1b31548c7d
 
 ## https://hermrigen.ch/
 
@@ -58,7 +79,6 @@
 ### Geänderte Seiten
 - https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
 - https://www.walperswil.ch/de/sitemap/
-- https://www.walperswil.ch/de/verwaltung/formulare.php
 
 ## https://hagneck.ch/
 
@@ -67,7 +87,7 @@
 
 ## https://www.bruettelen.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.bruettelen.ch/
 - https://www.bruettelen.ch/abfallarten/25586
 - https://www.bruettelen.ch/abfalldaten
@@ -161,6 +181,17 @@
 - https://www.bruettelen.ch/waldhaus
 - https://www.bruettelen.ch/whatsapp-kanal-der-gemeinde
 
+## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
+
+### Geänderte Seiten
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
+
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
 ### Geänderte Seiten
@@ -175,29 +206,45 @@
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/de/aktuelles/
-- https://www.ins.ch/de/aktuelles/archiv.php
-- https://www.ins.ch/de/aktuelles/meldungen/Gemeindeversammlung-16.10.2026.php
-- https://www.ins.ch/de/aktuelles/meldungen/aufhebung-feuerverbot.php
-- https://www.ins.ch/de/aktuelles/meldungen/fussweg-sporthalle.php
-- https://www.ins.ch/de/aktuelles/meldungen/messfluege.php
-- https://www.ins.ch/de/barrierefrei/
-- https://www.ins.ch/de/datenschutz/
-- https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
-- https://www.ins.ch/de/impressum/
+- https://www.ins.ch/
+- https://www.ins.ch/?fnsContrast=1
+- https://www.ins.ch/de/
+- https://www.ins.ch/de/?fnsContrast=1
+- https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=E
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
+
+### Neue Seiten
+- https://www.ins.ch/de/gemeinde/wirtschaft-und-gewerbe/detail/detail.php
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2116
+
+### Nicht mehr gefundene Seiten
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2046
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2115
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2168
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/abfallwirtschaft/abfallkalender/
 - https://www.erlach.ch/de/barrierefrei/
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
 - https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.erlach.ch/de/sitemap/
 - https://www.erlach.ch/de/veranstaltungen/560_museum-erlach-offen-14:00---17:00-uhr
 - https://www.erlach.ch/de/veranstaltungen/578_bar
 - https://www.erlach.ch/de/veranstaltungen/579_bar
@@ -208,3 +255,36 @@
 - https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
+
+## https://www.fraeschels.ch/
+
+### Geänderte Seiten
+- https://www.fraeschels.ch/aktuelles
+- https://www.fraeschels.ch/aktuelles/page/2
+- https://www.fraeschels.ch/aktuelles/page/3
+- https://www.fraeschels.ch/aktuelles/page/4
+- https://www.fraeschels.ch/aktuelles/page/5
+- https://www.fraeschels.ch/gemeinde/kultur-vereine
+- https://www.fraeschels.ch/gemeinde/schule
+- https://www.fraeschels.ch/politik/gemeinderat
+- https://www.fraeschels.ch/politik/kommissionen
+- https://www.fraeschels.ch/service
+
+### Neue Seiten
+- https://www.fraeschels.ch/news/coronavirus-informationen-des-kantons-freiburg
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-09122019
+
+### Nicht mehr gefundene Seiten
+- https://www.fraeschels.ch/news/feuer-im-freien-im-ganzen-kanton-weiterhin-verboten-einschliesslich-im-rahmen-der-1-august-feierlichkeiten
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-22052017
+
+## https://www.kerzers.ch/
+
+### Geänderte Seiten
+- https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-1
+- https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
+- https://www.kerzers.ch/index.php/user/password
+- https://www.kerzers.ch/node/560
+- https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
