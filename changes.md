@@ -1,23 +1,13 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.xn--twann-tscherz-2ob.ch/
+## https://www.ligerz.ch/
 
-### Neue Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aufgabenbereiche
+### Geänderte Seiten
+- https://www.ligerz.ch/datenschutz
 
 ## https://www.jens.ch/de/willkommen/
 
-### Geänderte Seiten
-- https://www.jens.ch/de/aktuell/agenda/
-- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=09&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=ce17c4e80da516009724203bd5e9c2ab
-- https://www.jens.ch/de/leben-freizeit/agenda/
-- https://www.jens.ch/de/willkommen/
-
 ### Neue Seiten
-- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=110&cHash=ffa3c15d69cf0237ab6d9f8466f4740a
-
-### Nicht mehr gefundene Seiten
-- https://www.jens.ch/de/aktuell/agenda/details/sitzung-des-gemeinderates-1/
 - https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=142&cHash=f699953c13f2edca11969f9d2f0a35d0
 - https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=143&cHash=bf69e8d2e5bf1de14d917dae2450a807
 - https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=144&cHash=25505b7d22dd2ace7383dfd581e20c4b
@@ -77,120 +67,18 @@
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
-- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
-- https://www.walperswil.ch/de/sitemap/
+- https://www.walperswil.ch/de/verwaltung/formulare.php
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
+- https://hagneck.ch/aktuelles/
 - https://hagneck.ch/kontakt/
 
 ## https://www.bruettelen.ch/
 
-### Neue Seiten
-- https://www.bruettelen.ch/
-- https://www.bruettelen.ch/abfallarten/25586
-- https://www.bruettelen.ch/abfalldaten
-- https://www.bruettelen.ch/aemterdf/45317
-- https://www.bruettelen.ch/aemterdf/45323
-- https://www.bruettelen.ch/aemterdf/45830
-- https://www.bruettelen.ch/aktuellesinformationen
-- https://www.bruettelen.ch/aktuellesinformationen/2844301
-- https://www.bruettelen.ch/aktuellesinformationen/2951224
-- https://www.bruettelen.ch/aktuellesinformationen/2977078
-- https://www.bruettelen.ch/altersbeauftragter
-- https://www.bruettelen.ch/anlaesseaktuelles
-- https://www.bruettelen.ch/anlaesseaktuelles/7110599
-- https://www.bruettelen.ch/anlaesseaktuelles/7110602
-- https://www.bruettelen.ch/anlaesseaktuelles/7448569
-- https://www.bruettelen.ch/behoerdenkommissionendf/42239
-- https://www.bruettelen.ch/burgerstube
-- https://www.bruettelen.ch/carnotzet
-- https://www.bruettelen.ch/datenschutzdf
-- https://www.bruettelen.ch/dienstleistungen
-- https://www.bruettelen.ch/dienstleistungendf/122468
-- https://www.bruettelen.ch/dienstleistungendf/122474
-- https://www.bruettelen.ch/dienstleistungendf/122480
-- https://www.bruettelen.ch/dienstleistungendf/122483
-- https://www.bruettelen.ch/dienstleistungendf/122510
-- https://www.bruettelen.ch/dienstleistungendf/122513
-- https://www.bruettelen.ch/dienstleistungendf/122516
-- https://www.bruettelen.ch/dienstleistungendf/122534
-- https://www.bruettelen.ch/dienstleistungendf/122555
-- https://www.bruettelen.ch/dienstleistungendf/122558
-- https://www.bruettelen.ch/dienstleistungendf/122561
-- https://www.bruettelen.ch/erwachsenenbildung
-- https://www.bruettelen.ch/eumzug
-- https://www.bruettelen.ch/firmenverzeichnis
-- https://www.bruettelen.ch/gemeindeinzahlen
-- https://www.bruettelen.ch/geschichte/15361
-- https://www.bruettelen.ch/gruengut
-- https://www.bruettelen.ch/impressum
-- https://www.bruettelen.ch/index/A
-- https://www.bruettelen.ch/index/B
-- https://www.bruettelen.ch/index/C
-- https://www.bruettelen.ch/index/D
-- https://www.bruettelen.ch/index/E
-- https://www.bruettelen.ch/index/F
-- https://www.bruettelen.ch/index/G
-- https://www.bruettelen.ch/index/H
-- https://www.bruettelen.ch/index/I
-- https://www.bruettelen.ch/index/J
-- https://www.bruettelen.ch/index/K
-- https://www.bruettelen.ch/index/L
-- https://www.bruettelen.ch/index/M
-- https://www.bruettelen.ch/index/N
-- https://www.bruettelen.ch/index/O
-- https://www.bruettelen.ch/index/P
-- https://www.bruettelen.ch/index/R
-- https://www.bruettelen.ch/index/S
-- https://www.bruettelen.ch/index/T
-- https://www.bruettelen.ch/index/U
-- https://www.bruettelen.ch/index/V
-- https://www.bruettelen.ch/index/W
-- https://www.bruettelen.ch/index/Z
-- https://www.bruettelen.ch/infobulletin/588532
-- https://www.bruettelen.ch/kibon
-- https://www.bruettelen.ch/kindergarten
-- https://www.bruettelen.ch/kontaktstellen
-- https://www.bruettelen.ch/login
-- https://www.bruettelen.ch/mehrzweckhalle
-- https://www.bruettelen.ch/mitarbeitende
-- https://www.bruettelen.ch/neophyten
-- https://www.bruettelen.ch/notfallkontakte
-- https://www.bruettelen.ch/notfallnummern
-- https://www.bruettelen.ch/notfalltreffpunkt
-- https://www.bruettelen.ch/ofenhaus
-- https://www.bruettelen.ch/ortsplan
-- https://www.bruettelen.ch/publikationen
-- https://www.bruettelen.ch/raumreservation
-- https://www.bruettelen.ch/reglemente
-- https://www.bruettelen.ch/reglemente-burgergemeinde
-- https://www.bruettelen.ch/reglemente/590654
-- https://www.bruettelen.ch/reglemente/590672
-- https://www.bruettelen.ch/sammelstellendf/8210
-- https://www.bruettelen.ch/schulen
-- https://www.bruettelen.ch/schulferien
-- https://www.bruettelen.ch/sehenswuerdigkeitendf/36650
-- https://www.bruettelen.ch/sitemap
-- https://www.bruettelen.ch/sitzung
-- https://www.bruettelen.ch/suchen
-- https://www.bruettelen.ch/tagesschule
-- https://www.bruettelen.ch/vereinsliste
-- https://www.bruettelen.ch/verwaltungsstellen
-- https://www.bruettelen.ch/waldhaus
-- https://www.bruettelen.ch/whatsapp-kanal-der-gemeinde
-
-## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
-
 ### Geänderte Seiten
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
+- https://www.bruettelen.ch/datenschutzdf
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -206,12 +94,17 @@
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/
-- https://www.ins.ch/?fnsContrast=1
-- https://www.ins.ch/de/
-- https://www.ins.ch/de/?fnsContrast=1
+- https://www.ins.ch/de/aktuelles/
+- https://www.ins.ch/de/aktuelles/archiv.php
+- https://www.ins.ch/de/aktuelles/meldungen/Gemeindeversammlung-16.10.2026.php
+- https://www.ins.ch/de/aktuelles/meldungen/aufhebung-feuerverbot.php
+- https://www.ins.ch/de/aktuelles/meldungen/fussweg-sporthalle.php
+- https://www.ins.ch/de/aktuelles/meldungen/messfluege.php
+- https://www.ins.ch/de/barrierefrei/
+- https://www.ins.ch/de/datenschutz/
+- https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.ins.ch/de/impressum/
 - https://www.ins.ch/de/sitemap/
-- https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
@@ -229,13 +122,10 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
 
 ### Neue Seiten
-- https://www.ins.ch/de/gemeinde/wirtschaft-und-gewerbe/detail/detail.php
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2116
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 
 ### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2046
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
+- https://www.ins.ch/de/gemeinde/wirtschaft-und-gewerbe/detail/detail.php
 
 ## https://www.erlach.ch/de/
 
@@ -255,28 +145,6 @@
 - https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
-
-## https://www.fraeschels.ch/
-
-### Geänderte Seiten
-- https://www.fraeschels.ch/aktuelles
-- https://www.fraeschels.ch/aktuelles/page/2
-- https://www.fraeschels.ch/aktuelles/page/3
-- https://www.fraeschels.ch/aktuelles/page/4
-- https://www.fraeschels.ch/aktuelles/page/5
-- https://www.fraeschels.ch/gemeinde/kultur-vereine
-- https://www.fraeschels.ch/gemeinde/schule
-- https://www.fraeschels.ch/politik/gemeinderat
-- https://www.fraeschels.ch/politik/kommissionen
-- https://www.fraeschels.ch/service
-
-### Neue Seiten
-- https://www.fraeschels.ch/news/coronavirus-informationen-des-kantons-freiburg
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-09122019
-
-### Nicht mehr gefundene Seiten
-- https://www.fraeschels.ch/news/feuer-im-freien-im-ganzen-kanton-weiterhin-verboten-einschliesslich-im-rahmen-der-1-august-feierlichkeiten
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-22052017
 
 ## https://www.kerzers.ch/
 
