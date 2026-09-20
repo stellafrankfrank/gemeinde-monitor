@@ -1,10 +1,22 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://merzligen.ch/
+## https://www.xn--twann-tscherz-2ob.ch/
+
+### Nicht mehr gefundene Seiten
+- https://www.xn--twann-tscherz-2ob.ch/aufgabenbereiche
+- https://www.xn--twann-tscherz-2ob.ch/index/L
+
+## https://www.ligerz.ch/
 
 ### Geänderte Seiten
-- https://merzligen.ch/wp-login.php
-- https://merzligen.ch/wp-login.php?redirect_to=https%3A%2F%2Fmerzligen.ch%2Fwp-admin%2Fupload.php%3Fitem%3D2792&reauth=1
+- https://www.ligerz.ch/
+- https://www.ligerz.ch/datenschutz
+
+### Neue Seiten
+- https://www.ligerz.ch/abfalldaten/7218233
+
+### Nicht mehr gefundene Seiten
+- https://www.ligerz.ch/abfalldaten/7218194
 
 ## https://hermrigen.ch/
 
@@ -48,10 +60,27 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
+## https://www.walperswil.ch/de/
+
+### Geänderte Seiten
+- https://www.walperswil.ch/de/verwaltung/formulare.php
+
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
+
+## https://www.bruettelen.ch/
+
+### Geänderte Seiten
+- https://www.bruettelen.ch/
+- https://www.bruettelen.ch/datenschutzdf
+
+### Neue Seiten
+- https://www.bruettelen.ch/anlaesseaktuelles/7110605
+
+### Nicht mehr gefundene Seiten
+- https://www.bruettelen.ch/anlaesseaktuelles/7110599
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -61,11 +90,16 @@
 - https://www.muentschemier.ch/index.php?apid=1575868884&apparentid=1328612653
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
+- https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
 - https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
 
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
+- https://www.ins.ch/
+- https://www.ins.ch/?fnsContrast=1
+- https://www.ins.ch/de/
+- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Gemeindeversammlung-16.10.2026.php
@@ -78,31 +112,34 @@
 - https://www.ins.ch/de/impressum/
 - https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2115
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2116
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2162
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=U
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2063
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2123
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
+
+### Nicht mehr gefundene Seiten
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2115
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2116
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/
-- https://www.erlach.ch/de/abfallwirtschaft/abfallkalender/
 - https://www.erlach.ch/de/barrierefrei/
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
 - https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.erlach.ch/de/impressum/
-- https://www.erlach.ch/de/veranstaltungen/
+- https://www.erlach.ch/de/politik/cdws/gremien.php
+- https://www.erlach.ch/de/politik/cdws/parteien.php
 - https://www.erlach.ch/de/veranstaltungen/560_museum-erlach-offen-14:00---17:00-uhr
 - https://www.erlach.ch/de/veranstaltungen/579_bar
+- https://www.erlach.ch/de/veranstaltungen/580_bar--amp;-disco
+- https://www.erlach.ch/de/veranstaltungen/656_l%C3%A4set-sunntige-erlach
 - https://www.erlach.ch/de/veranstaltungen/657_l%C3%A4set-sunntige-erlach
 - https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
 - https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
@@ -110,20 +147,18 @@
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
-### Neue Seiten
-- https://www.erlach.ch/de/veranstaltungen/580_bar--amp;-disco
-- https://www.erlach.ch/de/veranstaltungen/656_l%C3%A4set-sunntige-erlach
-
-### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/index.php
-- https://www.erlach.ch/de/veranstaltungen/620_am-19.9.-abgesagt:-sommermarkt--amp;-begegnung-stedtli-erlach-
-
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
+- https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
 - https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-1
 - https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-seelandhalle-0
 - https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-1
 - https://www.kerzers.ch/index.php/benuetzungsgesuch-waldhuette-0
 - https://www.kerzers.ch/index.php/online-benuetzungsgesuch-chutzenhuette
+- https://www.kerzers.ch/index.php/user/password
+- https://www.kerzers.ch/node/560
 - https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
