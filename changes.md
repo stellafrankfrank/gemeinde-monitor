@@ -1,10 +1,5 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.ligerz.ch/
-
-### Geänderte Seiten
-- https://www.ligerz.ch/datenschutz
-
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
@@ -47,15 +42,23 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
+## https://www.walperswil.ch/de/
+
+### Geänderte Seiten
+- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
+- https://www.walperswil.ch/de/sitemap/
+- https://www.walperswil.ch/de/verwaltung/formulare.php
+
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://www.bruettelen.ch/
+## https://www.siselen.ch/
 
 ### Geänderte Seiten
-- https://www.bruettelen.ch/datenschutzdf
+- https://www.siselen.ch/aktuell/
+- https://www.siselen.ch/kultur-freizeit/veranstaltungen/
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -71,42 +74,47 @@
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/
-- https://www.ins.ch/?fnsContrast=1
-- https://www.ins.ch/de/
-- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Gemeindeversammlung-16.10.2026.php
+- https://www.ins.ch/de/aktuelles/meldungen/Sanieurng-Schulliegenschaften.php
 - https://www.ins.ch/de/aktuelles/meldungen/aufhebung-feuerverbot.php
 - https://www.ins.ch/de/aktuelles/meldungen/fussweg-sporthalle.php
 - https://www.ins.ch/de/barrierefrei/
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/veranstaltungen/
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
-
-### Neue Seiten
-- https://www.ins.ch/de/aktuelles/meldungen/Sanieurng-Schulliegenschaften.php
-
-### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/aktuelles/meldungen/leiter-technische-betriebe.php
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/abfallwirtschaft/abfallkalender/
+- https://www.erlach.ch/de/
+- https://www.erlach.ch/de/barrierefrei/
+- https://www.erlach.ch/de/datenschutz/
+- https://www.erlach.ch/de/datenschutz/index.php
+- https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.erlach.ch/de/sitemap/
+- https://www.erlach.ch/de/veranstaltungen/579_bar
+- https://www.erlach.ch/de/veranstaltungen/580_bar--amp;-disco
+- https://www.erlach.ch/de/veranstaltungen/656_l%C3%A4set-sunntige-erlach
+- https://www.erlach.ch/de/veranstaltungen/657_l%C3%A4set-sunntige-erlach
+- https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
 - https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
+- https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
+- https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
+
+### Neue Seiten
+- https://www.erlach.ch/de/veranstaltungen/643_atelier-pius-offen-19:30---21:00-uhr
+
+### Nicht mehr gefundene Seiten
+- https://www.erlach.ch/de/index.php
 
 ## https://www.fraeschels.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.fraeschels.ch/
 - https://www.fraeschels.ch/aktuelles
 - https://www.fraeschels.ch/aktuelles/page/2
@@ -255,3 +263,227 @@
 - https://www.fraeschels.ch/verwaltung/dienstleistungen
 - https://www.fraeschels.ch/verwaltung/einwohnerkontrolle
 - https://www.fraeschels.ch/verwaltung/finanzielles
+
+## https://www.kerzers.ch/
+
+### Geänderte Seiten
+- https://www.kerzers.ch/
+- https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-1
+- https://www.kerzers.ch/benuetzungsgesuch-waldhuette-0
+- https://www.kerzers.ch/heute
+- https://www.kerzers.ch/heute/agenda
+- https://www.kerzers.ch/heute/publikationen
+- https://www.kerzers.ch/heute/soziale-medien
+- https://www.kerzers.ch/index.php/
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-seelandhalle-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-0
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-sport-und-zivilschutzanlage-1
+- https://www.kerzers.ch/index.php/benuetzungsgesuch-waldhuette-0
+- https://www.kerzers.ch/index.php/heute
+- https://www.kerzers.ch/index.php/heute/agenda
+- https://www.kerzers.ch/index.php/heute/publikationen
+- https://www.kerzers.ch/index.php/heute/soziale-medien
+- https://www.kerzers.ch/index.php/leben-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/chutzenhuette
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/jugendraum
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/kinder-und-jugendhaus
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/ofenhaus-auf-dem-platz
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/ofenhaus-fraeschelsgasse
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/seelandhalle
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/sportanlage
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/waldhuette
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/zivilschutzanlage
+- https://www.kerzers.ch/index.php/leben-kerzers/freizeit
+- https://www.kerzers.ch/index.php/leben-kerzers/freizeit/reservierbare-objekte
+- https://www.kerzers.ch/index.php/leben-kerzers/freizeit/schwimmbad
+- https://www.kerzers.ch/index.php/leben-kerzers/freizeit/sehenswuerdigkeiten
+- https://www.kerzers.ch/index.php/leben-kerzers/neu-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers/portrait
+- https://www.kerzers.ch/index.php/leben-kerzers/portrait/geschichte
+- https://www.kerzers.ch/index.php/leben-kerzers/portrait/ortsplan
+- https://www.kerzers.ch/index.php/leben-kerzers/portrait/serie-blick-hinter-die-kulissen-der-gemeinde-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers/portrait/webcam-gemeinde-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers/portrait/zahlen-und-fakten
+- https://www.kerzers.ch/index.php/leben-kerzers/umwelt/oeffentlicher-verkehr
+- https://www.kerzers.ch/index.php/node/72
+- https://www.kerzers.ch/index.php/online-benuetzungsgesuch-chutzenhuette
+- https://www.kerzers.ch/index.php/services/datenschutz
+- https://www.kerzers.ch/index.php/services/forum
+- https://www.kerzers.ch/index.php/services/impressum
+- https://www.kerzers.ch/index.php/services/links
+- https://www.kerzers.ch/index.php/services/notfallnummern
+- https://www.kerzers.ch/index.php/services/spartageskarte-gemeinde
+- https://www.kerzers.ch/index.php/sitemap
+- https://www.kerzers.ch/index.php/user/login
+- https://www.kerzers.ch/index.php/verwaltung/online-schalter
+- https://www.kerzers.ch/leben-kerzers
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/chutzenhuette
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/jugendraum
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/kinder-und-jugendhaus
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/ofenhaus-auf-dem-platz
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/ofenhaus-fraeschelsgasse
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/seelandhalle
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/sportanlage
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/waldhuette
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/weitere-mietbare-objekte
+- https://www.kerzers.ch/leben-kerzers-freizeit/reservierbare-objekte/zivilschutzanlage
+- https://www.kerzers.ch/leben-kerzers/freizeit
+- https://www.kerzers.ch/leben-kerzers/freizeit/bibliothek-kerzers
+- https://www.kerzers.ch/leben-kerzers/freizeit/eisbahn
+- https://www.kerzers.ch/leben-kerzers/freizeit/reservierbare-objekte
+- https://www.kerzers.ch/leben-kerzers/freizeit/schwimmbad
+- https://www.kerzers.ch/leben-kerzers/freizeit/sehenswuerdigkeiten
+- https://www.kerzers.ch/leben-kerzers/neu-kerzers
+- https://www.kerzers.ch/leben-kerzers/portrait
+- https://www.kerzers.ch/leben-kerzers/portrait/geschichte
+- https://www.kerzers.ch/leben-kerzers/portrait/ortsplan
+- https://www.kerzers.ch/leben-kerzers/portrait/serie-blick-hinter-die-kulissen-der-gemeinde-kerzers
+- https://www.kerzers.ch/leben-kerzers/portrait/webcam-gemeinde-kerzers
+- https://www.kerzers.ch/leben-kerzers/portrait/zahlen-und-fakten
+- https://www.kerzers.ch/leben-kerzers/umwelt/entsorgung
+- https://www.kerzers.ch/leben-kerzers/vereine
+- https://www.kerzers.ch/node/560
+- https://www.kerzers.ch/node/72
+- https://www.kerzers.ch/online-benuetzungsgesuch-chutzenhuette
+- https://www.kerzers.ch/services/newsletter-abonnieren
+- https://www.kerzers.ch/verwaltung/online-schalter
+
+### Neue Seiten
+- https://www.kerzers.ch/heute/agenda/egw-kerzers-gemeinschaftsnachmittag
+- https://www.kerzers.ch/heute/agenda/egw-kerzers-suppentag-zu-gunsten-von-projekten-gegen-menschenhandel-0
+- https://www.kerzers.ch/heute/agenda/evangelische-reformierte-kirchgemeinde-gottesdienst-im-alters-und-pflegeheim-kerzers-1
+- https://www.kerzers.ch/heute/agenda/gemeinnuetziger-frauenverein-kerzers-backtag-und-salzkuchenverkauf-beiden-ofenhaeusern
+- https://www.kerzers.ch/heute/agenda/midnight-sports-kerzers-1
+- https://www.kerzers.ch/heute/publikationen/bevorstehende-belagseinbauten-und-sperrungen-kerzers
+- https://www.kerzers.ch/heute/publikationen/flyer-dorffestival
+- https://www.kerzers.ch/heute/publikationen/ihre-gemeinde-informiert-freie-stelle-als-leiter-bauverwaltung-bauverwalter-80
+- https://www.kerzers.ch/heute/publikationen/radioaktivitaetsmessfluege-vom-14-bis-18-september-2026
+- https://www.kerzers.ch/heute/publikationen/weihnachtsmarkt-2026-kerzers
+- https://www.kerzers.ch/leben-kerzers/bildung
+- https://www.kerzers.ch/leben-kerzers/bildung/berufsberatung
+- https://www.kerzers.ch/leben-kerzers/bildung/kantonsschulen
+- https://www.kerzers.ch/leben-kerzers/bildung/schulen-kerzers
+- https://www.kerzers.ch/leben-kerzers/bildung/weiterbildung
+- https://www.kerzers.ch/leben-kerzers/integration
+- https://www.kerzers.ch/leben-kerzers/kerzers-im-alter/alters-und-pflegeheime-des-seebezirks
+- https://www.kerzers.ch/leben-kerzers/kerzers-im-alter/spitex-see-lac
+- https://www.kerzers.ch/leben-kerzers/kirche
+- https://www.kerzers.ch/leben-kerzers/senioren-alter
+- https://www.kerzers.ch/leben-kerzers/umwelt
+- https://www.kerzers.ch/leben-kerzers/umwelt/frimobility
+- https://www.kerzers.ch/leben-kerzers/umwelt/oeffentlicher-verkehr
+- https://www.kerzers.ch/leben-kerzers/wohnungssuche
+- https://www.kerzers.ch/politik
+- https://www.kerzers.ch/politik/gemeinderat
+- https://www.kerzers.ch/politik/gemeindeversammlung
+- https://www.kerzers.ch/politik/kommissionen
+- https://www.kerzers.ch/politik/ortsplanung
+- https://www.kerzers.ch/politik/parteien
+- https://www.kerzers.ch/politik/wahlen-und-abstimmungen
+- https://www.kerzers.ch/services
+- https://www.kerzers.ch/services/datenschutz
+- https://www.kerzers.ch/services/forum
+- https://www.kerzers.ch/services/fundbuero
+- https://www.kerzers.ch/services/impressum
+- https://www.kerzers.ch/services/links
+- https://www.kerzers.ch/services/notfallnummern
+- https://www.kerzers.ch/services/oeffentlicher-verkehr
+- https://www.kerzers.ch/services/spartageskarte-gemeinde
+- https://www.kerzers.ch/services/umfrage
+- https://www.kerzers.ch/sitemap
+- https://www.kerzers.ch/user/login
+- https://www.kerzers.ch/user/password
+- https://www.kerzers.ch/verwaltung
+- https://www.kerzers.ch/verwaltung/einwohnerkontrolle
+- https://www.kerzers.ch/verwaltung/einwohnerkontrolle/eumzug-online-adressaenderung
+- https://www.kerzers.ch/verwaltung/einwohnerkontrolle/heimatausweis-fuer-zweitwohnsitz-bestellen
+- https://www.kerzers.ch/verwaltung/einwohnerkontrolle/wochenaufenthalt-anmelden-aufenthaltsbescheinigung
+- https://www.kerzers.ch/verwaltung/einwohnerkontrolle/wohnsitzbestaetigung-bestellen
+- https://www.kerzers.ch/verwaltung/gemeindedienste
+- https://www.kerzers.ch/verwaltung/gemeindedienste/kinder-jugendarbeit-regio-kerzers
+- https://www.kerzers.ch/verwaltung/gemeindedienste/kinderbetreuung-see
+- https://www.kerzers.ch/verwaltung/gemeindedienste/kinderkrippe-storchenaescht
+- https://www.kerzers.ch/verwaltung/gemeindedienste/kita-sandkasten
+- https://www.kerzers.ch/verwaltung/gemeindedienste/sozialdienst-familienschalter
+- https://www.kerzers.ch/verwaltung/gemeindedienste/spielgruppe-spiki-kerzers
+- https://www.kerzers.ch/verwaltung/gemeindedienste/tagesstruktur-kerzers
+- https://www.kerzers.ch/verwaltung/gemeindedienste/werkhof
+- https://www.kerzers.ch/verwaltung/reglemente
+- https://www.kerzers.ch/verwaltung/verwaltungspersonal
+- https://www.kerzers.ch/wirtschaft
+- https://www.kerzers.ch/wirtschaft/finanzkennzahlen
+- https://www.kerzers.ch/wirtschaft/gewerbe
+- https://www.kerzers.ch/wirtschaft/gewerbe-und-industrieland
+- https://www.kerzers.ch/wirtschaft/lage-und-entwicklung
+- https://www.kerzers.ch/wirtschaft/wohnen-und-bauen
+
+### Nicht mehr gefundene Seiten
+- https://www.kerzers.ch/index.php/heute/agenda/egw-kerzers-gemeinschaftsnachmittag
+- https://www.kerzers.ch/index.php/heute/agenda/egw-kerzers-suppentag-zu-gunsten-von-projekten-gegen-menschenhandel-0
+- https://www.kerzers.ch/index.php/heute/agenda/evangelische-reformierte-kirchgemeinde-oekum-gottesdienst-zum-dank-buss-und-bettag-mit
+- https://www.kerzers.ch/index.php/heute/agenda/gemeinnuetziger-frauenverein-kerzers-backtag-und-salzkuchenverkauf-beiden-ofenhaeusern
+- https://www.kerzers.ch/index.php/heute/agenda/kinder-und-jugendarbeit-regio-kerzers-spielkafi
+- https://www.kerzers.ch/index.php/heute/publikationen/bevorstehende-belagseinbauten-und-sperrungen-kerzers
+- https://www.kerzers.ch/index.php/heute/publikationen/flyer-dorffestival
+- https://www.kerzers.ch/index.php/heute/publikationen/ihre-gemeinde-informiert-freie-stelle-als-leiter-bauverwaltung-bauverwalter-80
+- https://www.kerzers.ch/index.php/heute/publikationen/radioaktivitaetsmessfluege-vom-14-bis-18-september-2026
+- https://www.kerzers.ch/index.php/heute/publikationen/weihnachtsmarkt-2026-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers-freizeit/reservierbare-objekte/weitere-mietbare-objekte
+- https://www.kerzers.ch/index.php/leben-kerzers/bildung
+- https://www.kerzers.ch/index.php/leben-kerzers/bildung/berufsberatung
+- https://www.kerzers.ch/index.php/leben-kerzers/bildung/kantonsschulen
+- https://www.kerzers.ch/index.php/leben-kerzers/bildung/schulen-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers/bildung/weiterbildung
+- https://www.kerzers.ch/index.php/leben-kerzers/freizeit/bibliothek-kerzers
+- https://www.kerzers.ch/index.php/leben-kerzers/freizeit/eisbahn
+- https://www.kerzers.ch/index.php/leben-kerzers/integration
+- https://www.kerzers.ch/index.php/leben-kerzers/kerzers-im-alter/alters-und-pflegeheime-des-seebezirks
+- https://www.kerzers.ch/index.php/leben-kerzers/kerzers-im-alter/spitex-see-lac
+- https://www.kerzers.ch/index.php/leben-kerzers/kirche
+- https://www.kerzers.ch/index.php/leben-kerzers/senioren-alter
+- https://www.kerzers.ch/index.php/leben-kerzers/umwelt
+- https://www.kerzers.ch/index.php/leben-kerzers/umwelt/entsorgung
+- https://www.kerzers.ch/index.php/leben-kerzers/umwelt/frimobility
+- https://www.kerzers.ch/index.php/leben-kerzers/vereine
+- https://www.kerzers.ch/index.php/leben-kerzers/wohnungssuche
+- https://www.kerzers.ch/index.php/politik
+- https://www.kerzers.ch/index.php/politik/gemeinderat
+- https://www.kerzers.ch/index.php/politik/gemeindeversammlung
+- https://www.kerzers.ch/index.php/politik/kommissionen
+- https://www.kerzers.ch/index.php/politik/ortsplanung
+- https://www.kerzers.ch/index.php/politik/parteien
+- https://www.kerzers.ch/index.php/politik/wahlen-und-abstimmungen
+- https://www.kerzers.ch/index.php/services
+- https://www.kerzers.ch/index.php/services/fundbuero
+- https://www.kerzers.ch/index.php/services/newsletter-abonnieren
+- https://www.kerzers.ch/index.php/services/oeffentlicher-verkehr
+- https://www.kerzers.ch/index.php/services/umfrage
+- https://www.kerzers.ch/index.php/user/password
+- https://www.kerzers.ch/index.php/verwaltung
+- https://www.kerzers.ch/index.php/verwaltung/einwohnerkontrolle
+- https://www.kerzers.ch/index.php/verwaltung/einwohnerkontrolle/eumzug-online-adressaenderung
+- https://www.kerzers.ch/index.php/verwaltung/einwohnerkontrolle/heimatausweis-fuer-zweitwohnsitz-bestellen
+- https://www.kerzers.ch/index.php/verwaltung/einwohnerkontrolle/wochenaufenthalt-anmelden-aufenthaltsbescheinigung
+- https://www.kerzers.ch/index.php/verwaltung/einwohnerkontrolle/wohnsitzbestaetigung-bestellen
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/kinder-jugendarbeit-regio-kerzers
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/kinderbetreuung-see
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/kinderkrippe-storchenaescht
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/kita-sandkasten
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/sozialdienst-familienschalter
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/spielgruppe-spiki-kerzers
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/tagesstruktur-kerzers
+- https://www.kerzers.ch/index.php/verwaltung/gemeindedienste/werkhof
+- https://www.kerzers.ch/index.php/verwaltung/reglemente
+- https://www.kerzers.ch/index.php/verwaltung/verwaltungspersonal
+- https://www.kerzers.ch/index.php/wirtschaft
+- https://www.kerzers.ch/index.php/wirtschaft/finanzkennzahlen
+- https://www.kerzers.ch/index.php/wirtschaft/gewerbe
+- https://www.kerzers.ch/index.php/wirtschaft/gewerbe-und-industrieland
+- https://www.kerzers.ch/index.php/wirtschaft/lage-und-entwicklung
+- https://www.kerzers.ch/index.php/wirtschaft/wohnen-und-bauen
+- https://www.kerzers.ch/node/5428
+- https://www.kerzers.ch/node/5429
+- https://www.kerzers.ch/node/5430
