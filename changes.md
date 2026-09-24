@@ -1,5 +1,20 @@
 # Änderungen auf Gemeinde-Websites
 
+## https://www.ligerz.ch/
+
+### Geänderte Seiten
+- https://www.ligerz.ch/datenschutz
+
+## https://merzligen.ch/
+
+### Geänderte Seiten
+- https://merzligen.ch/events/seniorennachmittag-veloplausch-2/var/ri-14.l-L1/
+- https://merzligen.ch/events/seniorennachmittag-veloplausch-2/var/ri-15.l-L1/
+- https://merzligen.ch/events/seniorennachmittag-veloplausch-2/var/ri-16.l-L1/
+- https://merzligen.ch/events/seniorennachmittag-veloplausch-2/var/ri-17.l-L1/
+- https://merzligen.ch/events/seniorennachmittag-veloplausch-2/var/ri-18.l-L1/
+- https://merzligen.ch/events/seniorennachmittag-veloplausch-2/var/ri-19.l-L1/
+
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
@@ -7,38 +22,29 @@
 
 ## https://www.moerigen.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.moerigen.ch/
 - https://www.moerigen.ch/?Abstimmungen_=&Wahlen=
 - https://www.moerigen.ch/?Pressemitteilung=
 - https://www.moerigen.ch/abstimmungen-wahlen-0
 - https://www.moerigen.ch/aktuelles/agenda
-- https://www.moerigen.ch/aktuelles/agenda/e-bike-tour-di-17022026-1346
+- https://www.moerigen.ch/aktuelles/agenda/adventsfenster-2026-mo-05012026-1726
 - https://www.moerigen.ch/aktuelles/agenda/firmenbesichtigung-di-17022026-1348
 - https://www.moerigen.ch/aktuelles/agenda/herbstwanderung-di-17022026-1347
 - https://www.moerigen.ch/aktuelles/agenda/kerzenziehen-fuer-erwachsene-mo-05012026-1725
 - https://www.moerigen.ch/aktuelles/agenda/kerzenziehen-fuer-kinder-mo-05012026-1725
 - https://www.moerigen.ch/aktuelles/agenda/marsch-polka-walzer-konzert-mzh-do-29012026-1546
-- https://www.moerigen.ch/aktuelles/agenda/mittagstisch-fr-24072026-0729-0
 - https://www.moerigen.ch/aktuelles/agenda/mittagstisch-fr-24072026-0730
 - https://www.moerigen.ch/aktuelles/agenda/mittagstisch-fr-24072026-0730-0
 - https://www.moerigen.ch/aktuelles/agenda/regionaler-seniorinnen-anlass-di-17022026-1348
-- https://www.moerigen.ch/aktuelles/agenda?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/agenda?Pressemitteilung=
-- https://www.moerigen.ch/aktuelles/agenda?field_agenda_taxonomie_target_id=All&page=1
+- https://www.moerigen.ch/aktuelles/agenda/samichlousfeier-mo-05012026-1727
 - https://www.moerigen.ch/aktuelles/projekte/gesamtmelioration
-- https://www.moerigen.ch/aktuelles/projekte/gesamtmelioration?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/projekte/gesamtmelioration?Pressemitteilung=
 - https://www.moerigen.ch/aktuelles/projekte/renovation-schulhaus
-- https://www.moerigen.ch/aktuelles/projekte/renovation-schulhaus?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/projekte/renovation-schulhaus?Pressemitteilung=
 - https://www.moerigen.ch/aktuelles/publikationen
 - https://www.moerigen.ch/aktuelles/publikationen/abschlussarbeiten-am-kreuzwegkreisel-nidauipsach
 - https://www.moerigen.ch/aktuelles/publikationen/abstimmungsausschuss-vom-27092026
 - https://www.moerigen.ch/aktuelles/publikationen/aufhebung-feuerverbote-im-ganzen-kanton-bern
 - https://www.moerigen.ch/aktuelles/publikationen/reduzierte-oeffnungszeiten-der-verwaltung-waehrend-den-herbstferien
-- https://www.moerigen.ch/aktuelles/publikationen?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/publikationen?Pressemitteilung=
 - https://www.moerigen.ch/burgergemeinde-gewerbe-vereine
 - https://www.moerigen.ch/burgergemeinde-gewerbe-vereine/burgergemeinde-moerigen
 - https://www.moerigen.ch/freizeit-tourismus
@@ -50,47 +56,37 @@
 - https://www.moerigen.ch/gemeinde
 - https://www.moerigen.ch/gemeinde-info-01-2025-mai
 - https://www.moerigen.ch/gemeinde/archiv
-- https://www.moerigen.ch/gemeinde/archiv?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/archiv?Pressemitteilung=
 - https://www.moerigen.ch/gemeinde/behoerden
 - https://www.moerigen.ch/gemeinde/behoerden/reglemente
-- https://www.moerigen.ch/gemeinde/behoerden/reglemente?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/behoerden/reglemente?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/behoerden?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/behoerden?Pressemitteilung=
 - https://www.moerigen.ch/gemeinde/die-dorfgeschichte
-- https://www.moerigen.ch/gemeinde/die-dorfgeschichte?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/die-dorfgeschichte?Pressemitteilung=
 - https://www.moerigen.ch/gemeinde/gemeindeverbaende
-- https://www.moerigen.ch/gemeinde/gemeindeverbaende?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/gemeindeverbaende?Pressemitteilung=
 - https://www.moerigen.ch/gemeinde/moerigen-zahlen
-- https://www.moerigen.ch/gemeinde/moerigen-zahlen?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/moerigen-zahlen?Pressemitteilung=
 - https://www.moerigen.ch/gemeinde/ortsplan
-- https://www.moerigen.ch/gemeinde/ortsplan?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/ortsplan?Pressemitteilung=
 - https://www.moerigen.ch/gemeinde/verwaltung
 - https://www.moerigen.ch/gemeinde/verwaltung/online-schalter
-- https://www.moerigen.ch/gemeinde/verwaltung/online-schalter?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/verwaltung/online-schalter?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/verwaltung?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/verwaltung?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde?Pressemitteilung=
 - https://www.moerigen.ch/gewerbe-vereine/gewerbe
 - https://www.moerigen.ch/gewerbe-vereine/gewerbe/das-lokale-und-regionale-gewerbe-kmu-taeuffelen-und-umgebung
 - https://www.moerigen.ch/gewerbe-vereine/vereine
 - https://www.moerigen.ch/impressum
 - https://www.moerigen.ch/index.php/
+- https://www.moerigen.ch/index.php/?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/?Pressemitteilung=
 - https://www.moerigen.ch/index.php/abstimmungen-wahlen-0
 - https://www.moerigen.ch/index.php/aktuelles/agenda
-- https://www.moerigen.ch/index.php/aktuelles/agenda/e-bike-tour-di-17022026-1346
 - https://www.moerigen.ch/index.php/aktuelles/agenda/herbstwanderung-di-17022026-1347
-- https://www.moerigen.ch/index.php/aktuelles/agenda/mittagstisch-fr-24072026-0729-0
+- https://www.moerigen.ch/index.php/aktuelles/agenda/mittagstisch-fr-24072026-0730
+- https://www.moerigen.ch/index.php/aktuelles/agenda?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/aktuelles/agenda?Pressemitteilung=
+- https://www.moerigen.ch/index.php/aktuelles/agenda?field_agenda_taxonomie_target_id=All&page=1
 - https://www.moerigen.ch/index.php/aktuelles/projekte/gesamtmelioration
+- https://www.moerigen.ch/index.php/aktuelles/projekte/gesamtmelioration?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/aktuelles/projekte/gesamtmelioration?Pressemitteilung=
 - https://www.moerigen.ch/index.php/aktuelles/projekte/renovation-schulhaus
+- https://www.moerigen.ch/index.php/aktuelles/projekte/renovation-schulhaus?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/aktuelles/projekte/renovation-schulhaus?Pressemitteilung=
 - https://www.moerigen.ch/index.php/aktuelles/publikationen
+- https://www.moerigen.ch/index.php/aktuelles/publikationen?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/aktuelles/publikationen?Pressemitteilung=
 - https://www.moerigen.ch/index.php/burgergemeinde-gewerbe-vereine
 - https://www.moerigen.ch/index.php/burgergemeinde-gewerbe-vereine/burgergemeinde-moerigen
 - https://www.moerigen.ch/index.php/freizeit-tourismus
@@ -101,14 +97,34 @@
 - https://www.moerigen.ch/index.php/freizeit-tourismus/uebernachten
 - https://www.moerigen.ch/index.php/gemeinde
 - https://www.moerigen.ch/index.php/gemeinde/archiv
+- https://www.moerigen.ch/index.php/gemeinde/archiv?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/archiv?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gemeinde/behoerden
 - https://www.moerigen.ch/index.php/gemeinde/behoerden/reglemente
+- https://www.moerigen.ch/index.php/gemeinde/behoerden/reglemente?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/behoerden/reglemente?Pressemitteilung=
+- https://www.moerigen.ch/index.php/gemeinde/behoerden?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/behoerden?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gemeinde/die-dorfgeschichte
+- https://www.moerigen.ch/index.php/gemeinde/die-dorfgeschichte?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/die-dorfgeschichte?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gemeinde/gemeindeverbaende
+- https://www.moerigen.ch/index.php/gemeinde/gemeindeverbaende?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/gemeindeverbaende?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gemeinde/moerigen-zahlen
+- https://www.moerigen.ch/index.php/gemeinde/moerigen-zahlen?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/moerigen-zahlen?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gemeinde/ortsplan
+- https://www.moerigen.ch/index.php/gemeinde/ortsplan?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/ortsplan?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gemeinde/verwaltung
 - https://www.moerigen.ch/index.php/gemeinde/verwaltung/online-schalter
+- https://www.moerigen.ch/index.php/gemeinde/verwaltung/online-schalter?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/verwaltung/online-schalter?Pressemitteilung=
+- https://www.moerigen.ch/index.php/gemeinde/verwaltung?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde/verwaltung?Pressemitteilung=
+- https://www.moerigen.ch/index.php/gemeinde?Abstimmungen_=&Wahlen=
+- https://www.moerigen.ch/index.php/gemeinde?Pressemitteilung=
 - https://www.moerigen.ch/index.php/gewerbe-vereine/gewerbe
 - https://www.moerigen.ch/index.php/gewerbe-vereine/gewerbe/das-lokale-und-regionale-gewerbe-kmu-taeuffelen-und-umgebung
 - https://www.moerigen.ch/index.php/gewerbe-vereine/vereine
@@ -121,6 +137,7 @@
 - https://www.moerigen.ch/index.php/politik
 - https://www.moerigen.ch/index.php/politik/gemeinderat
 - https://www.moerigen.ch/index.php/politik/parteien
+- https://www.moerigen.ch/index.php/politik?Pressemitteilung=
 - https://www.moerigen.ch/index.php/sbb-tageskarten
 - https://www.moerigen.ch/leben-moerigen
 - https://www.moerigen.ch/leben-moerigen/bildung
@@ -144,8 +161,6 @@
 - https://www.moerigen.ch/politik
 - https://www.moerigen.ch/politik/gemeinderat
 - https://www.moerigen.ch/politik/parteien
-- https://www.moerigen.ch/politik?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/politik?Pressemitteilung=
 - https://www.moerigen.ch/praesentation-abteilung-strukturverbesserungen-und-produktion-asp-fachstelle-tiefbau-13092022
 - https://www.moerigen.ch/praesentation-geoplanteam-13092022
 - https://www.moerigen.ch/sbb-tageskarten
@@ -195,160 +210,44 @@
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
-- https://www.walperswil.ch/de/
-- https://www.walperswil.ch/de/aktuelles/
-- https://www.walperswil.ch/de/aktuelles/?navid=424383424383
-- https://www.walperswil.ch/de/aktuelles/?navid=561865561865
-- https://www.walperswil.ch/de/aktuelles/meldungen/Sanierung-Bruecke.php
-- https://www.walperswil.ch/de/bildung-betreuung/schule-walperswil-buehl/
-- https://www.walperswil.ch/de/bildung-betreuung/schule-walperswil-buehl/?navid=572543572543
-- https://www.walperswil.ch/de/bildung-betreuung/schule-walperswil-buehl/?navid=666395666395
 - https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
 - https://www.walperswil.ch/de/sitemap/
-- https://www.walperswil.ch/de/verwaltung/abteilungen/
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/
-- https://www.walperswil.ch/de/verwaltung/formulare.php
-
-### Neue Seiten
-- https://www.walperswil.ch/de/verwaltung/abteilungen/10_weta-bus
-- https://www.walperswil.ch/de/verwaltung/abteilungen/11_hauswart-schulanlage
-- https://www.walperswil.ch/de/verwaltung/abteilungen/12_einwohner----fremdenkontrolle
-- https://www.walperswil.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
-- https://www.walperswil.ch/de/verwaltung/abteilungen/3_ahv-zweigstelle
-- https://www.walperswil.ch/de/verwaltung/abteilungen/5_finanzverwaltung
-- https://www.walperswil.ch/de/verwaltung/abteilungen/6_bauverwaltung
-- https://www.walperswil.ch/de/verwaltung/abteilungen/7_schulsekretariat
-- https://www.walperswil.ch/de/verwaltung/abteilungen/8_steuerb%C3%BCro
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/107_weta-bus
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/108_einb%C3%BCrgerung&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/109_oberstufe&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/10_ausweis-%C3%BCber-den-registrierten-familienstand---bestellen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/110_betreuungsgutscheine&navid=912258912258
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/112_altersleitbild
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/118_amtliche-bewertung&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/120_grundbuch&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/121_ausweisverlust-(identit%C3%A4tskarte,-pass-oder-ausl%C3%A4nderausweis)&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/122_eintritt-in-ein-alters--oder-pflegeheim---anmelden&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/123_friedhof&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/124_heimatausweis-bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/125_wohnsitzbescheinigung-bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/126_jahresrechnung-2021
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/127_seniorenrat
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/128_budget-2023&navid=424383424383
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/12_heirat-und-eingetragene-partnerschaft&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/130_jahresrechnung-2022
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/131_budget-2024
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/132_jahresrechnung-2023
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/133_papiergesuch-betreuungsgutscheine-2024_2025
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/134_budget-2025
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/135_jahresrechnung-2024
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/136_budget-2026
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/137_jahresrechnung-2025
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/13_familienausweis---bestellen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/14_personenstandsausweis---bestellen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/1_abfallentsorgung&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/20_m%C3%BCtter--und-v%C3%A4terberatungsstelle---informationen-einholen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/2_ahv-zweigstelle---informationen-&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/32_jugendfachstelle
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/32_jugendfachstelle&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/39_altersrente-(ahv)---anmelden
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/40_versichertenausweis-(ahv-karte)---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/40_versichertenausweis-(ahv-karte)---bestellen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/41_sozialhilfe---beantragen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/41_sozialhilfe---beantragen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/47_trinkwasser---informationen-einholen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/48_kindergarten-&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/50_obligatorische-schulzeit&navid=666395666395
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/55_festwirtschaft---gesuch-einreichen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/5_n%C3%BCtzliche-links
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/64_baugesuch---einreichen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/65_amtliche-vermessung-/-grundbuchpl%C3%A4ne---ausz%C3%BCge-bestellen&navid=865708865708
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/72_fundb%C3%BCro---gegenstand-abgeben,-abholen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/73_polizeiliche-beratungsstellen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/74_feuerwehr&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/79_gemeindesteuern---steuererkl%C3%A4rung-einreichen&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/84_gesuchsformular-datensperre&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/9_pass-und-identit%C3%A4tskarte&navid=596101596101
-
-### Nicht mehr gefundene Seiten
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=10
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=11
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=12
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=5
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=1&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=107
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=108&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=109&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110&navid=912258912258
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=112
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=118&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=120&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=121&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=122&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=123&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=124
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=125
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=126
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=127
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=128&navid=424383424383
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=13&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=130
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=131
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=132
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=133
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=134
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=135
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=136
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=137
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=29
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=30
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=31
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=39
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=40&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=41&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=47&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=48&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=5
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=50&navid=666395666395
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=55&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=64
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=65&navid=865708865708
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=72
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=73&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=74&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=79&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=84&navid=596101596101
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=9&navid=596101596101
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://www.luescherz.ch/startseite
+## https://www.bruettelen.ch/
 
 ### Geänderte Seiten
-- https://www.luescherz.ch/aktuell/veranstaltungen
-- https://www.luescherz.ch/startseite
+- https://www.bruettelen.ch/datenschutzdf
 
-### Neue Seiten
-- https://www.luescherz.ch/aktuell/veranstaltungen/details/halloween-anlass
-- https://www.luescherz.ch/aktuell/veranstaltungen/festefeier
+## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
-### Nicht mehr gefundene Seiten
-- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Soziales?cHash=2607a2cc38e6f440d9cba74cf9051016
-- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Sport?cHash=66063886cd886327c012d45261600c86
+### Geänderte Seiten
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Adventsmaerit.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Hochzeitschuetzen.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -364,26 +263,11 @@
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/de/aktuelles/
-- https://www.ins.ch/de/aktuelles/archiv.php
-- https://www.ins.ch/de/aktuelles/meldungen/Gemeindeversammlung-16.10.2026.php
-- https://www.ins.ch/de/aktuelles/meldungen/Sanieurng-Schulliegenschaften.php
-- https://www.ins.ch/de/aktuelles/meldungen/aufhebung-feuerverbot.php
-- https://www.ins.ch/de/aktuelles/meldungen/fussweg-sporthalle.php
-- https://www.ins.ch/de/barrierefrei/
-- https://www.ins.ch/de/datenschutz/
-- https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/gemeinde/kultur-und-freizeit/
-- https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/politik/behoerden/
 - https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2063
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2123
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2134
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
-
-### Neue Seiten
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
 
 ## https://www.erlach.ch/de/
 
@@ -392,7 +276,6 @@
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
 - https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
-- https://www.erlach.ch/de/impressum/
 - https://www.erlach.ch/de/sitemap/
 - https://www.erlach.ch/de/veranstaltungen/579_bar
 - https://www.erlach.ch/de/veranstaltungen/580_bar--amp;-disco
@@ -400,63 +283,55 @@
 - https://www.erlach.ch/de/veranstaltungen/656_l%C3%A4set-sunntige-erlach
 - https://www.erlach.ch/de/veranstaltungen/657_l%C3%A4set-sunntige-erlach
 - https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
-- https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
 - https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
 ## https://www.gampelen.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.gampelen.ch/
 
 ## https://www.fraeschels.ch/
 
 ### Neue Seiten
-- https://www.fraeschels.ch/news/gemeindeinfo-1-23
-- https://www.fraeschels.ch/news/gemeindeinfo-1-24
-- https://www.fraeschels.ch/news/gemeindeinfo-1-25
-- https://www.fraeschels.ch/news/gemeindeinfo-2-23
-- https://www.fraeschels.ch/news/gemeindeinfo-2-24
-- https://www.fraeschels.ch/news/gemeindeinfo-2-25
-- https://www.fraeschels.ch/news/gemeindeinfo-3-23
-- https://www.fraeschels.ch/news/gemeindeinfo-3-24
-- https://www.fraeschels.ch/news/gemeindeinfo-3-25
-
-### Nicht mehr gefundene Seiten
+- https://www.fraeschels.ch/news/ausserordentliche-gemeindeversammlung-vom-10102017
+- https://www.fraeschels.ch/news/ausserordentliche-gemeindeversammlung-vom-22102019
+- https://www.fraeschels.ch/news/gemeindeinfo-1-19
+- https://www.fraeschels.ch/news/gemeindeinfo-1-20
+- https://www.fraeschels.ch/news/gemeindeinfo-2-19
+- https://www.fraeschels.ch/news/gemeindeinfo-3-18
+- https://www.fraeschels.ch/news/gemeindeinfo-3-19
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-10122018
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-11122017
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-21052019
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-22052017
+- https://www.fraeschels.ch/news/gemeindeversammlung-vom-28052018
 - https://www.fraeschels.ch/politik/gemeinderat/ratsmitglieder
 - https://www.fraeschels.ch/service
 - https://www.fraeschels.ch/service/reglemente
 - https://www.fraeschels.ch/service/richtlinien
 
-## https://www.ried.ch/
-
-### Geänderte Seiten
-- https://www.ried.ch/
-- https://www.ried.ch/?fnsContrast=1
-- https://www.ried.ch/?pageId2d1e7b50=2
-- https://www.ried.ch/?pageId2d1e7b50=3
-- https://www.ried.ch/?pageId2d1e7b50=4
-- https://www.ried.ch/?pageId2d1e7b50=5
-- https://www.ried.ch/de/
-- https://www.ried.ch/de/?fnsContrast=1
-- https://www.ried.ch/de/?pageId2d1e7b50=2
-- https://www.ried.ch/de/?pageId2d1e7b50=3
-- https://www.ried.ch/de/?pageId2d1e7b50=4
-- https://www.ried.ch/de/?pageId2d1e7b50=5
-- https://www.ried.ch/de/veranstaltungen/?navid=188962188962
-- https://www.ried.ch/de/veranstaltungen/?navid=307423782488
-
-### Neue Seiten
-- https://www.ried.ch/de/veranstaltungen/detail/detail.php?i=376
-
 ### Nicht mehr gefundene Seiten
-- https://www.ried.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=50
-- https://www.ried.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=9
+- https://www.fraeschels.ch/aktuelles/page/2
+- https://www.fraeschels.ch/datenschutz
+- https://www.fraeschels.ch/impressum
+- https://www.fraeschels.ch/news/ergebnisse-nationalratswahl-221023
+- https://www.fraeschels.ch/news/ergebnisse-staenderatswahl-2-wg-121123
+- https://www.fraeschels.ch/news/ergebnisse-staenderatswahl-221023
+- https://www.fraeschels.ch/news/protokoll-1-dv-gvb-240523
+- https://www.fraeschels.ch/news/protokoll-dv-gvb-121023
+- https://www.fraeschels.ch/news/protokoll-dv-soziale-dienste-see-280923
+- https://www.fraeschels.ch/news/protokoll-eidg-abstimmung-241124
+- https://www.fraeschels.ch/news/protokoll-kant-abstimmung-121123
+- https://www.fraeschels.ch/news/protokolle-eidg-kant-abstimmung-090225
+- https://www.fraeschels.ch/news/protokolle-eidg-kant-abstimmung-090624
+- https://www.fraeschels.ch/news/protokolle-eidg-kant-abstimmung-220924
+- https://www.fraeschels.ch/news/protokolle-eidg-kant-abstimmungen-030324
 
 ## https://www.kerzers.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.kerzers.ch/
 - https://www.kerzers.ch/benuetzungsgesuch-seelandhalle-0
 - https://www.kerzers.ch/benuetzungsgesuch-sport-und-zivilschutzanlage-0
