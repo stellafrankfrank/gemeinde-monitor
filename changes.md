@@ -1,159 +1,28 @@
 # Änderungen auf Gemeinde-Websites
 
+## https://www.ligerz.ch/
+
+### Geänderte Seiten
+- https://www.ligerz.ch/datenschutz
+
+## https://www.sutz-lattrigen.ch/de/
+
+### Geänderte Seiten
+- https://www.sutz-lattrigen.ch/de/politik/gemeindeversammlung/
+
+## https://www.jens.ch/de/willkommen/
+
+### Nicht mehr gefundene Seiten
+- https://www.jens.ch/de/aktuell/news/news-details/abstimmungen-vom-27092026/
+- https://www.jens.ch/de/leben-freizeit/gewerbeverzeichnis/
+- https://www.jens.ch/de/leben-freizeit/vermietung-oeffentliche-anlagen-raeume/
+- https://www.jens.ch/de/schule-familie/tagesschule/
+
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
 - https://hermrigen.ch/kontakt/
-
-## https://www.moerigen.ch/
-
-### Neue Seiten
-- https://www.moerigen.ch/
-- https://www.moerigen.ch/?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/?Pressemitteilung=
-- https://www.moerigen.ch/abstimmungen-wahlen-0
-- https://www.moerigen.ch/aktuelles/agenda
-- https://www.moerigen.ch/aktuelles/agenda/firmenbesichtigung-di-17022026-1348
-- https://www.moerigen.ch/aktuelles/agenda/herbstwanderung-di-17022026-1347
-- https://www.moerigen.ch/aktuelles/agenda/marsch-polka-walzer-konzert-mzh-do-29012026-1546
-- https://www.moerigen.ch/aktuelles/agenda/regionaler-seniorinnen-anlass-di-17022026-1348
-- https://www.moerigen.ch/aktuelles/agenda?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/agenda?Pressemitteilung=
-- https://www.moerigen.ch/aktuelles/agenda?field_agenda_taxonomie_target_id=All&page=1
-- https://www.moerigen.ch/aktuelles/projekte/gesamtmelioration
-- https://www.moerigen.ch/aktuelles/projekte/gesamtmelioration?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/projekte/gesamtmelioration?Pressemitteilung=
-- https://www.moerigen.ch/aktuelles/projekte/renovation-schulhaus
-- https://www.moerigen.ch/aktuelles/projekte/renovation-schulhaus?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/projekte/renovation-schulhaus?Pressemitteilung=
-- https://www.moerigen.ch/aktuelles/publikationen
-- https://www.moerigen.ch/aktuelles/publikationen/einladung-zum-informationsanlass-schulraum-und-schulpartnerschaft
-- https://www.moerigen.ch/aktuelles/publikationen/reduzierte-oeffnungszeiten-der-verwaltung-waehrend-den-herbstferien
-- https://www.moerigen.ch/aktuelles/publikationen/resultate-der-eidg-und-kant-abstimmung-vom-2709206
-- https://www.moerigen.ch/aktuelles/publikationen?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/aktuelles/publikationen?Pressemitteilung=
-- https://www.moerigen.ch/burgergemeinde-gewerbe-vereine
-- https://www.moerigen.ch/burgergemeinde-gewerbe-vereine/burgergemeinde-moerigen
-- https://www.moerigen.ch/freizeit-tourismus
-- https://www.moerigen.ch/freizeit-tourismus/freizeitanlagen-am-see
-- https://www.moerigen.ch/freizeit-tourismus/gastronomie
-- https://www.moerigen.ch/freizeit-tourismus/gemeinde-raeumlichkeiten
-- https://www.moerigen.ch/freizeit-tourismus/hafen
-- https://www.moerigen.ch/freizeit-tourismus/uebernachten
-- https://www.moerigen.ch/gemeinde
-- https://www.moerigen.ch/gemeinde-info-01-2025-mai
-- https://www.moerigen.ch/gemeinde/archiv
-- https://www.moerigen.ch/gemeinde/archiv?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/archiv?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/behoerden
-- https://www.moerigen.ch/gemeinde/behoerden/reglemente
-- https://www.moerigen.ch/gemeinde/behoerden/reglemente?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/behoerden/reglemente?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/behoerden?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/behoerden?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/die-dorfgeschichte
-- https://www.moerigen.ch/gemeinde/die-dorfgeschichte?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/die-dorfgeschichte?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/gemeindeverbaende
-- https://www.moerigen.ch/gemeinde/gemeindeverbaende?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/gemeindeverbaende?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/moerigen-zahlen
-- https://www.moerigen.ch/gemeinde/moerigen-zahlen?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/moerigen-zahlen?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/ortsplan
-- https://www.moerigen.ch/gemeinde/ortsplan?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/ortsplan?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/verwaltung
-- https://www.moerigen.ch/gemeinde/verwaltung/online-schalter
-- https://www.moerigen.ch/gemeinde/verwaltung/online-schalter?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/verwaltung/online-schalter?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde/verwaltung?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde/verwaltung?Pressemitteilung=
-- https://www.moerigen.ch/gemeinde?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/gemeinde?Pressemitteilung=
-- https://www.moerigen.ch/gewerbe-vereine/gewerbe
-- https://www.moerigen.ch/gewerbe-vereine/gewerbe/das-lokale-und-regionale-gewerbe-kmu-taeuffelen-und-umgebung
-- https://www.moerigen.ch/gewerbe-vereine/vereine
-- https://www.moerigen.ch/impressum
-- https://www.moerigen.ch/index.php/
-- https://www.moerigen.ch/index.php/abstimmungen-wahlen-0
-- https://www.moerigen.ch/index.php/aktuelles/agenda
-- https://www.moerigen.ch/index.php/aktuelles/agenda/adventsfenster-2026-mo-05012026-1726
-- https://www.moerigen.ch/index.php/aktuelles/agenda/firmenbesichtigung-di-17022026-1348
-- https://www.moerigen.ch/index.php/aktuelles/agenda/kerzenziehen-fuer-erwachsene-mo-05012026-1725
-- https://www.moerigen.ch/index.php/aktuelles/agenda/kerzenziehen-fuer-kinder-mo-05012026-1725
-- https://www.moerigen.ch/index.php/aktuelles/agenda/marsch-polka-walzer-konzert-mzh-do-29012026-1546
-- https://www.moerigen.ch/index.php/aktuelles/agenda/mittagstisch-fr-24072026-0730
-- https://www.moerigen.ch/index.php/aktuelles/agenda/mittagstisch-fr-24072026-0730-0
-- https://www.moerigen.ch/index.php/aktuelles/agenda/samichlousfeier-mo-05012026-1727
-- https://www.moerigen.ch/index.php/aktuelles/projekte/gesamtmelioration
-- https://www.moerigen.ch/index.php/aktuelles/projekte/renovation-schulhaus
-- https://www.moerigen.ch/index.php/aktuelles/publikationen
-- https://www.moerigen.ch/index.php/burgergemeinde-gewerbe-vereine
-- https://www.moerigen.ch/index.php/burgergemeinde-gewerbe-vereine/burgergemeinde-moerigen
-- https://www.moerigen.ch/index.php/freizeit-tourismus
-- https://www.moerigen.ch/index.php/freizeit-tourismus/freizeitanlagen-am-see
-- https://www.moerigen.ch/index.php/freizeit-tourismus/gastronomie
-- https://www.moerigen.ch/index.php/freizeit-tourismus/gemeinde-raeumlichkeiten
-- https://www.moerigen.ch/index.php/freizeit-tourismus/hafen
-- https://www.moerigen.ch/index.php/freizeit-tourismus/uebernachten
-- https://www.moerigen.ch/index.php/gemeinde
-- https://www.moerigen.ch/index.php/gemeinde/archiv
-- https://www.moerigen.ch/index.php/gemeinde/behoerden
-- https://www.moerigen.ch/index.php/gemeinde/behoerden/reglemente
-- https://www.moerigen.ch/index.php/gemeinde/die-dorfgeschichte
-- https://www.moerigen.ch/index.php/gemeinde/gemeindeverbaende
-- https://www.moerigen.ch/index.php/gemeinde/moerigen-zahlen
-- https://www.moerigen.ch/index.php/gemeinde/ortsplan
-- https://www.moerigen.ch/index.php/gemeinde/verwaltung
-- https://www.moerigen.ch/index.php/gemeinde/verwaltung/online-schalter
-- https://www.moerigen.ch/index.php/gewerbe-vereine/gewerbe
-- https://www.moerigen.ch/index.php/gewerbe-vereine/gewerbe/das-lokale-und-regionale-gewerbe-kmu-taeuffelen-und-umgebung
-- https://www.moerigen.ch/index.php/gewerbe-vereine/vereine
-- https://www.moerigen.ch/index.php/leben-moerigen
-- https://www.moerigen.ch/index.php/leben-moerigen/bildung
-- https://www.moerigen.ch/index.php/leben-moerigen/kinder-jugend
-- https://www.moerigen.ch/index.php/leben-moerigen/kirchgemeinden
-- https://www.moerigen.ch/index.php/leben-moerigen/senioren-alter
-- https://www.moerigen.ch/index.php/leben-moerigen/soziales
-- https://www.moerigen.ch/index.php/politik
-- https://www.moerigen.ch/index.php/politik/gemeinderat
-- https://www.moerigen.ch/index.php/politik/parteien
-- https://www.moerigen.ch/index.php/sbb-tageskarten
-- https://www.moerigen.ch/leben-moerigen
-- https://www.moerigen.ch/leben-moerigen/bildung
-- https://www.moerigen.ch/leben-moerigen/kinder-jugend
-- https://www.moerigen.ch/leben-moerigen/kirchgemeinden
-- https://www.moerigen.ch/leben-moerigen/senioren-alter
-- https://www.moerigen.ch/leben-moerigen/soziales
-- https://www.moerigen.ch/node/1032
-- https://www.moerigen.ch/node/1092
-- https://www.moerigen.ch/node/1174
-- https://www.moerigen.ch/node/1194
-- https://www.moerigen.ch/node/1247
-- https://www.moerigen.ch/node/1256
-- https://www.moerigen.ch/node/1268
-- https://www.moerigen.ch/node/1269
-- https://www.moerigen.ch/node/1347
-- https://www.moerigen.ch/node/248
-- https://www.moerigen.ch/node/765
-- https://www.moerigen.ch/node/866
-- https://www.moerigen.ch/node/946
-- https://www.moerigen.ch/node/947
-- https://www.moerigen.ch/politik
-- https://www.moerigen.ch/politik/gemeinderat
-- https://www.moerigen.ch/politik/gemeinderat?Pressemitteilung=
-- https://www.moerigen.ch/politik/parteien
-- https://www.moerigen.ch/politik?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/politik?Pressemitteilung=
-- https://www.moerigen.ch/praesentation-abteilung-strukturverbesserungen-und-produktion-asp-fachstelle-tiefbau-13092022
-- https://www.moerigen.ch/praesentation-geoplanteam-13092022
-- https://www.moerigen.ch/sbb-tageskarten
-- https://www.moerigen.ch/sitemap
-- https://www.moerigen.ch/user/login
-- https://www.moerigen.ch/user/login?Abstimmungen_=&Wahlen=
-- https://www.moerigen.ch/user/login?Pressemitteilung=
-- https://www.moerigen.ch/user/password
+- https://hermrigen.ch/verwaltung/
 
 ## https://epsach.ch/
 
@@ -194,7 +63,7 @@
 
 ## https://www.walperswil.ch/de/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.walperswil.ch/de/
 - https://www.walperswil.ch/de/aktuelles/
 - https://www.walperswil.ch/de/aktuelles/?navid=424383424383
@@ -350,26 +219,128 @@
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
+## https://www.luescherz.ch/startseite
+
+### Geänderte Seiten
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/%C3%96ffentlicher%20Verkehr?cHash=656cdac627dfa9b4d1a6b970edbe74ba
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/AHV-Zweigstelle%20Jolimont%20%28Stellenleiterin%29?cHash=0240f4f40f7a6e2561cebe7265d95e4f
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Abfall?cHash=d614944419c1b9ebdd850cf78996fb24
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Abfallsammelstelle?cHash=bff305f6e28bbdc13c2f3d73e4be2a4f
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Abstimmungen?cHash=b585667c224ff08772eb5f0c2479f20e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Abwasserentsorgung%20%28Leitungsnetz%20Gemeinde%29?cHash=168171d7d0fa2a6663c61c8d03a2abf1
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Ackerbaustellenleiterin?cHash=10cb51fb5ae28b4ac133b7975b5fe0a9
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Altersheime?cHash=c2a669c309c62771adedff76c31d7677
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Alterspolitik?cHash=156bd0b6901be4972a35730603d32f61
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Asylwesen?cHash=31f0935b636a6b0b6fb6d4927de416ef
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Ausbildungszentren%20%C3%B6ff.%20Sicherheit%20%28Abgeordneter%29?cHash=df3b451848d820b0bb5d21604e4f3b5c
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bau-%20und%20Planungskommission%20%28Pr%C3%A4sident%29?cHash=eee66547f36d4298ac7cefdf85822b7e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bau-%20und%20Planungskommission%20%28Sekret%C3%A4rin%29?cHash=5f6872e4576fe5cab1a98af532226d01
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bauwesen?cHash=2b4e2c726bcabc3be1f9ef2cbbb83b6a
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bestattungen?cHash=6005275cc8d7e665b9304debf0a2dca0
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bev%C3%B6lkerungsschutz?cHash=58b6d60481376b1a748b2dded95d0a2a
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bootshafen?cHash=2469be4c5977051007608ae6239241c1
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Bootspl%C3%A4tze?cHash=8b6638635b5f2828af210c4a549561e6
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Budget?cHash=5006f6f871a859a72579c6d317f05874
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Einb%C3%BCrgerungen?cHash=64f993edcf5ce5b9238fdf5774129e9e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Einwohnerkontrolle?cHash=3415b7bf5fb34b0668a7c272cda3bc1b
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Energie?cHash=4bdc5ea71ac4bb9cf83713cab109fb0e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Erwachsenenbildung?cHash=ad82c6765f6be5bcb6a6bc55f4913436
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Fakturierung?cHash=86443e83d32c4b97d9df0b8c15129aeb
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feueraufseher?cHash=48f5f3ec59761f0489f90e5ef9a48e8a
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feuerbrandkontrolle?cHash=84513e29ca3e71da966555236907ecbc
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feuerungskontrolleur?cHash=b8ed666f3fe9cf2656bc791339935a53
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feuerwehr%20Jolimont%20%28Delegierter%29?cHash=b3076cab0a31b2fb047a5640dfa03ca8
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feuerwehr?cHash=1f535e089a5099124a7c5e27c7175b06
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feuerwehrkommandant%20Jolimont?cHash=a069209e4f56e670e6e4ea58d4538397
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Feuerwehrkommission%20%28Pr%C3%A4sident%29?cHash=9a57ce287bb39b94bab3ed82a42216bb
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Finanzen?cHash=8dda133acd394dbd2a01feda653bbcd5
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Finanzplanung?cHash=bbe4e7141fd3f2288cd2317c063923d9
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Finanzverwaltung?cHash=cccf88bc8f3649452f2bf0996c1a24cf
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Flurwege?cHash=ab4efb61ea6776276d684c9d093f703c
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Fremdenkontrolle?cHash=c410dde459d1a45b40ffe170b8704cf8
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Friedhof?cHash=bc07ea26375bbd68b63c2ea60abbb49d
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/G%C3%BCllenbeauftragter?cHash=f271a591a5928b3dcea5b153e35d056c
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindef%C3%BChrung?cHash=9bc377d7595f5a930dda1080a840fd88
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindepolizei?cHash=f7af4364f16dafccf50c986fc0499849
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindepr%C3%A4sident?cHash=fd8cb1e696eb9a58967ece54ef475cff
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeinderat%20%28Sekret%C3%A4rin%29?cHash=10ea8bf8461f620059fb68fcdc814e78
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeinderat?cHash=b0bfb1211cc74ba2a4012c6c2c992c30
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindeschreiberei%20%28Leitung%29?cHash=ec62490cba242555c726ab520494876c
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindestrassen?cHash=e76bce0f248035a4c4df5a5c42253919
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindeverband%20ARA%20Region%20T%C3%A4uffelen%20%28Abgeordneter%29?cHash=2df242cd4e35e9d8dab2f7aaa907989b
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindeverband%20ARA%20Region%20T%C3%A4uffelen?cHash=fb516e82387b826cb728c8f6f55962c0
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindeverband%20Schulimont%20%28Delegierter%29?cHash=0962e40fe432eb8fa5b0108eed04ce7b
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindeversammlung%20%28Sekret%C3%A4rin%29?cHash=206bfcaaceb20d565eb9ecf5c92e543e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindeversammlung?cHash=8e5f5d4490ad0cc722da32fe0f44c3a9
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindewald?cHash=902292e1689137e2fd222f06b47da58d
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindewerkmeister%20Stellvertreter?cHash=3196aecd376a8b77d80aef0a82078c60
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gemeindewerkmeister?cHash=e7014933b2e18998dffc85489a7d0243
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gesundheit?cHash=9af02b00c06fbede9420e0eaea2745d5
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Gew%C3%A4sser?cHash=f9e1e734ca145c898792e23bd7b5e9b3
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Hafenwart?cHash=c756215990aa5906488258cdbc62ff12
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Heizungsanlagen?cHash=ffedfa888060f0b2089aa0b9ed981830
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Hundetaxe?cHash=2cde454c83a273899db37ed99e1c0051
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Inkasso?cHash=b4f554b371d7a1e00cc0ed14bbccafbf
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Jahresrechnung?cHash=8efe6ff7fd60f964b6e2a427e98c861e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Jugendarbeit?cHash=3a3f6e9f4a627c828a7fc54f4178518e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Kadaverentsorgung?cHash=6c3eef71a31cf22a0c65c03e045cc5b2
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Kommunikation?cHash=12eecd2f367e51938db546a280f68ee8
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Koordination?cHash=69dd58d456ea61dd03b4df24378e1faa
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Kulturelles?cHash=20ba061070293334fc2b79eb4be0c631
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Landwirtschaft?cHash=5d6de6dc3daa0506c2b2ab75e54e15c0
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Liegenschaften%20%28Hochbauten%29?cHash=b3f660751fc21a94662362382cc3075f
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Liegenschaften?cHash=d05cafa6060b5a9449a6c71364d22cb8
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Milit%C3%A4r?cHash=37c8bf7b7098783a7e0323344508679a
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Museen?cHash=f49cde8f50f44dcfcdae90dda855cf24
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Musikschule%20Seeland%20%28Abgeordnete%29?cHash=574f1a4c4784c6b9621fc94b0658164f
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Natur-%20und%20Umwelt?cHash=c7ac1fb02053cc97867dcb922d630d2d
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Oberstufenschulkommission%20Erlach%20%28Mitglied%29?cHash=89fb11f7dc7d9bbc6de7afbc53aff936
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Orts-%20und%20Gemeindepolizei?cHash=ec2c4528448e043be6fd3124ae8a0ca7
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Pachtland?cHash=959033ed322aabc90bc59a9ee7f1c420
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Parkbussen?cHash=e02422d96ef19a2b97852e47d5941d9e
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Personaldienst?cHash=595f115cae75cbb01931c1a5acf71be7
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Raumplanung?cHash=d89e2b9d9c1960908fe109b4f7cd7627
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Rechnungswesen?cHash=647ea303e3cf5e331da848b005589485
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Redaktion%20Webseite?cHash=a5d6cf7865ffa467ecec2354caca420b
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Schulsozialarbeit?cHash=e08d63a285df3634eeae256d53f9be98
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/Siegelungsbeauftragte?cHash=2768bf430d35bdbb9c76dede889371f4
+- https://www.luescherz.ch/verwaltung/zustaendigkeiten/details/andere%20Schulen?cHash=4c1d3dbcaed5e26d23195f03e3e4ca89
+
+## https://www.bruettelen.ch/
+
+### Geänderte Seiten
+- https://www.bruettelen.ch/datenschutzdf
+
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
 ### Geänderte Seiten
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/datenschutz/index.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Gewerbeverein-Muentschemier.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Hochzeitschuetzen.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Treite-Choerli.php
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -385,143 +356,61 @@
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/de/portrait/webcam/
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
+- https://www.ins.ch/de/sitemap/
+- https://www.ins.ch/de/veranstaltungen/
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2182
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2188
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2189
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=E
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=T
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=U
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=118
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=119
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=137
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=149
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=151
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=152
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=155
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=171
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=173
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=181
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=201
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=202
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=206
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=21
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=213
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=214
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=25
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=27
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=37
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=39
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=4
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=41
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=48
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=5
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=50
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=51
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=59
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=6
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=60
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=64
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=66
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=7
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=72
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=75
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=76
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=79
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=8
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=80
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/
-- https://www.erlach.ch/de/barrierefrei/
-- https://www.erlach.ch/de/datenschutz/
-- https://www.erlach.ch/de/datenschutz/index.php
-- https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
-- https://www.erlach.ch/de/veranstaltungen/561_museum-erlach-offen-14:00---17:00-uhr
-- https://www.erlach.ch/de/veranstaltungen/581_bar
-- https://www.erlach.ch/de/veranstaltungen/582_konzert-gerhard-tschan---eine-tour-d%E2%80%99horizon
-- https://www.erlach.ch/de/veranstaltungen/643_konzert;-atelier-pius-19:30---21:00-uhr
-- https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.erlach.ch/de/impressum/
+- https://www.erlach.ch/de/sitemap/
 - https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
-- https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
-- https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
-
-### Neue Seiten
-- https://www.erlach.ch/de/veranstaltungen/644_konzert;-atelier-pius-19:30---21:00-uhr
-
-### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/index.php
-
-## https://www.gampelen.ch/
-
-### Neue Seiten
-- https://www.gampelen.ch/
-
-## https://www.fraeschels.ch/
-
-### Geänderte Seiten
-- https://www.fraeschels.ch/gemeindeversammlung
-
-### Neue Seiten
-- https://www.fraeschels.ch/gemeindeversammlung?tx_news_pi1%5B%40widget_0%5D%5BcurrentPage%5D=2&cHash=98030354438bdf4065899ff4fae38d9b
-- https://www.fraeschels.ch/news/ergaenzungswahl-gemeinderat
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-02122010
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-05052011
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-21-april-2021
-- https://www.fraeschels.ch/news/info-befall-buchsbaumzuensler-schaedling
-- https://www.fraeschels.ch/news/konstituierung-des-gemeinderates
-
-### Nicht mehr gefundene Seiten
-- https://www.fraeschels.ch/news/ausserordentliche-gemeindeversammlung-vom-10102017
-- https://www.fraeschels.ch/news/ausserordentliche-gemeindeversammlung-vom-22102019
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-09122019
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-10122018
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-11122017
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-21052019
-- https://www.fraeschels.ch/news/gemeindeversammlung-vom-28052018
 
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
+- https://www.kerzers.ch/
 - https://www.kerzers.ch/gemeinde/heute/agenda.html/15
-- https://www.kerzers.ch/gemeinde/wirtschaft/finanzkennzahlen.html/70
-- https://www.kerzers.ch/leben-in-kerzers/kerzers-im-alter/alters-und-pflegeheime-des-seebezirks.html/44
-- https://www.kerzers.ch/portrait/fotogalerie.html/22
-- https://www.kerzers.ch/portrait/ortsplan.html/23
-- https://www.kerzers.ch/portrait/serie-blick-hinter-die-kulissen-der-gemeinde-kerzers.html/24
-- https://www.kerzers.ch/portrait/zahlen-fakten.html/21
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/56/eventdate/36
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/78/eventdate/51
+- https://www.kerzers.ch/gemeinde/politik/gemeinderat.html/58
+- https://www.kerzers.ch/gemeinde/verwaltung/gemeindeverwaltung.html/49
+- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
+- https://www.kerzers.ch/leben-in-kerzers/kirche.html/37
+- https://www.kerzers.ch/leben-in-kerzers/umwelt/entsorgung.html/19
+- https://www.kerzers.ch/portrait/geschichte.html/11
+
+### Neue Seiten
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/148/eventdate/94
+- https://www.kerzers.ch/route/core-hp/page/19
+- https://www.kerzers.ch/route/core-hp/page/39
 
 ### Nicht mehr gefundene Seiten
-- https://www.kerzers.ch/route/core-hp/page/19
-- https://www.kerzers.ch/route/core-hp/page/35
-- https://www.kerzers.ch/route/core-hp/page/36
-- https://www.kerzers.ch/route/core-hp/page/37
-- https://www.kerzers.ch/route/core-hp/page/39
-- https://www.kerzers.ch/route/core-hp/page/44
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/144/eventdate/92
