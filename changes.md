@@ -1,73 +1,75 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.sutz-lattrigen.ch/de/
+## https://www.ligerz.ch/
 
 ### Geänderte Seiten
-- https://www.sutz-lattrigen.ch/de/
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/?navid=843225843225
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/?navid=900528900528
-
-### Neue Seiten
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=452
-
-### Nicht mehr gefundene Seiten
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=505
+- https://www.ligerz.ch/datenschutz
 
 ## https://www.jens.ch/de/willkommen/
 
 ### Geänderte Seiten
-- https://www.jens.ch/de/aktuell/agenda/
-- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=10&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=642e56e5721a107c352eda29eebfe47f
-- https://www.jens.ch/de/aktuell/agenda/currentPage/2/
-- https://www.jens.ch/de/aktuell/agenda/currentPage/3/
-- https://www.jens.ch/de/leben-freizeit/agenda/
-- https://www.jens.ch/de/willkommen/
-
-### Neue Seiten
-- https://www.jens.ch/de/aktuell/agenda/details/kaffetrinket-der-landfrauen/
-- https://www.jens.ch/de/aktuell/news/news-details/abstimmungen-vom-27092026/
-- https://www.jens.ch/de/datenschutz/
-- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=136&cHash=b2d1c27a65c40f16177d46fc366eb270
-
-### Nicht mehr gefundene Seiten
-- https://www.jens.ch/de/aktuell/agenda/details/uebung-der-regio-feuerwehr-aarberg-2/
+- https://www.jens.ch/de/leben-freizeit/vermietung-oeffentliche-anlagen-raeume/
 
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
 - https://hermrigen.ch/kontakt/
 
+## https://epsach.ch/
+
+### Geänderte Seiten
+- https://epsach.ch/
+- https://epsach.ch/ahv-zweigstelle/
+- https://epsach.ch/aktuelles/
+- https://epsach.ch/altersleitbild-sozialregion-erlach-2023/
+- https://epsach.ch/asiatische-hornisse/
+- https://epsach.ch/ausserordentliche-gemeindeversammlung/
+- https://epsach.ch/datenschutz/
+- https://epsach.ch/der-neue-weta-bus-ist-da/
+- https://epsach.ch/epsiger-info-02-2026/
+- https://epsach.ch/epsiger-info-2024-2/
+- https://epsach.ch/epsiger-info-2024-4/
+- https://epsach.ch/gemeindeversammlung-vom-14-juni-2024/
+- https://epsach.ch/gemeindeversammlung-vom-21-11-2025/
+- https://epsach.ch/gemeindeversammlung/
+- https://epsach.ch/gesucht-fachperson-efz-betriebsunterhalt/
+- https://epsach.ch/gewerbe/
+- https://epsach.ch/impressum/
+- https://epsach.ch/kontakt/
+- https://epsach.ch/notfalltreffpunkt/
+- https://epsach.ch/oeffnungszeiten-gemeindeverwaltung/
+- https://epsach.ch/politik/
+- https://epsach.ch/politik/funktionaere/
+- https://epsach.ch/portraet/
+- https://epsach.ch/regionaler-richtplan-windenergie-mitwirkung-der-gemeinden/
+- https://epsach.ch/sanierung-walperswilbruecke-2/
+- https://epsach.ch/sanierung-walperswilbruecke/
+- https://epsach.ch/schule-epsach/
+- https://epsach.ch/vereine/
+- https://epsach.ch/verwaltung/
+- https://epsach.ch/verwaltung/dienstleistungen/
+- https://epsach.ch/verwaltung/entsorgen/
+- https://epsach.ch/verwaltung/regio-feuerwehr/
+- https://epsach.ch/verwaltung/reglemente/
+
+## https://www.walperswil.ch/de/
+
+### Geänderte Seiten
+- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
+- https://www.walperswil.ch/de/sitemap/
+
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
+- https://hagneck.ch/aktuelles/
 - https://hagneck.ch/kontakt/
 
-## https://www.bruettelen.ch/
+## https://www.luescherz.ch/startseite
 
 ### Geänderte Seiten
-- https://www.bruettelen.ch/datenschutz
-
-## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
-
-### Geänderte Seiten
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Gewerbeverein-Muentschemier.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Hochzeitschuetzen.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
-- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
-- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
+- https://www.luescherz.ch/aktuell/news
+- https://www.luescherz.ch/aktuell/news/news-details/steuerverwaltung-systemumstellung
+- https://www.luescherz.ch/startseite
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -78,14 +80,11 @@
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
+- https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
 
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/
-- https://www.ins.ch/?fnsContrast=1
-- https://www.ins.ch/de/
-- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Postautohaltekante.php
@@ -97,9 +96,6 @@
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
 - https://www.ins.ch/de/sitemap/
-- https://www.ins.ch/de/veranstaltungen/
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2107
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2206
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
@@ -171,56 +167,28 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
-### Neue Seiten
-- https://www.ins.ch/de/gemeinde/wirtschaft-und-gewerbe/
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2208
-
 ### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2047
+- https://www.ins.ch/de/gemeinde/wirtschaft-und-gewerbe/
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/sitemap/
-- https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
-- https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
-
-## https://www.ried.ch/
-
-### Geänderte Seiten
-- https://www.ried.ch/
-- https://www.ried.ch/?fnsContrast=1
-- https://www.ried.ch/?pageId2d1e7b50=2
-- https://www.ried.ch/?pageId2d1e7b50=3
-- https://www.ried.ch/?pageId2d1e7b50=4
-- https://www.ried.ch/?pageId2d1e7b50=5
-- https://www.ried.ch/de/
-- https://www.ried.ch/de/?fnsContrast=1
-- https://www.ried.ch/de/?pageId2d1e7b50=2
-- https://www.ried.ch/de/?pageId2d1e7b50=3
-- https://www.ried.ch/de/?pageId2d1e7b50=4
-- https://www.ried.ch/de/?pageId2d1e7b50=5
-- https://www.ried.ch/de/aktuelles/
-
-### Neue Seiten
-- https://www.ried.ch/de/aktuelles/meldungen/Spiel.php
-
-### Nicht mehr gefundene Seiten
-- https://www.ried.ch/de/aktuelles/meldungen/Verwaltung-geschlossen-Montag-12.10.2026-abends.php
+- https://www.erlach.ch/de/barrierefrei/
+- https://www.erlach.ch/de/datenschutz/
+- https://www.erlach.ch/de/datenschutz/index.php
+- https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.erlach.ch/de/impressum/
+- https://www.erlach.ch/de/veranstaltungen/561_museum-erlach-offen-14:00---17:00-uhr
+- https://www.erlach.ch/de/veranstaltungen/582_konzert-gerhard-tschan---eine-tour-d%E2%80%99horizon
+- https://www.erlach.ch/de/veranstaltungen/583_bar
+- https://www.erlach.ch/de/veranstaltungen/584_bar
+- https://www.erlach.ch/de/veranstaltungen/644_konzert;-atelier-pius-19:30---21:00-uhr
+- https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
+- https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 
 ## https://www.kerzers.ch/
 
-### Geänderte Seiten
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/15
-- https://www.kerzers.ch/gemeinde/wirtschaft/finanzkennzahlen.html/70
-- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
-- https://www.kerzers.ch/leben-in-kerzers/freizeit/sehenswuerdigkeiten.html/28
-- https://www.kerzers.ch/leben-in-kerzers/integration.html/36
-- https://www.kerzers.ch/leben-in-kerzers/neu-in-kerzers.html/26
-- https://www.kerzers.ch/services/sitemap.html/5
-- https://www.kerzers.ch/services/sitemap.html/5/l/desitemap
-
-### Neue Seiten
+### Nicht mehr gefundene Seiten
 - https://www.kerzers.ch/route/core-hp/page/35
-- https://www.kerzers.ch/route/core-hp/page/39
-- https://www.kerzers.ch/route/core-hp/page/49
+- https://www.kerzers.ch/route/core-hp/page/36
