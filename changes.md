@@ -1,37 +1,16 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.sutz-lattrigen.ch/de/
+## https://www.ligerz.ch/
 
 ### Geänderte Seiten
-- https://www.sutz-lattrigen.ch/de/
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/?navid=843225843225
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/?navid=900528900528
+- https://www.ligerz.ch/
+- https://www.ligerz.ch/datenschutz
 
 ### Neue Seiten
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=486
-- https://www.sutz-lattrigen.ch/de/verwaltung/dienstleistungen/detail.php?i=55
+- https://www.ligerz.ch/sitzung/6988015
 
 ### Nicht mehr gefundene Seiten
-- https://www.sutz-lattrigen.ch/de/veranstaltungen/detail.php?i=451
-
-## https://www.jens.ch/de/willkommen/
-
-### Geänderte Seiten
-- https://www.jens.ch/de/aktuell/agenda/
-- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=10&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=642e56e5721a107c352eda29eebfe47f
-- https://www.jens.ch/de/aktuell/agenda/currentPage/2/
-- https://www.jens.ch/de/leben-freizeit/agenda/
-- https://www.jens.ch/de/willkommen/
-
-### Neue Seiten
-- https://www.jens.ch/de/aktuell/agenda/details/gruenabfuhr-7/
-- https://www.jens.ch/de/aktuell/agenda/details/sitzung-des-gemeinderates-1/
-- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=114&cHash=dacae9fc4cbb48c4c89f17326fbbe71a
-
-### Nicht mehr gefundene Seiten
-- https://www.jens.ch/de/aktuell/agenda/currentPage/3/
-- https://www.jens.ch/de/aktuell/agenda/details/altmetall-kartonsammlung/
-- https://www.jens.ch/de/aktuell/agenda/details/bierverein-jens-itzer-rampenverkauf/
+- https://www.ligerz.ch/abfalldaten/7218200
 
 ## https://hermrigen.ch/
 
@@ -75,21 +54,39 @@
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
 
-## https://www.walperswil.ch/de/
-
-### Geänderte Seiten
-- https://www.walperswil.ch/de/verwaltung/formulare.php
-
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
-- https://hagneck.ch/aktuelles/
 - https://hagneck.ch/kontakt/
+
+## https://www.bruettelen.ch/
+
+### Geänderte Seiten
+- https://www.bruettelen.ch/
+- https://www.bruettelen.ch/datenschutz
+
+### Neue Seiten
+- https://www.bruettelen.ch/anlaesseaktuelles/7110671
+
+### Nicht mehr gefundene Seiten
+- https://www.bruettelen.ch/anlaesseaktuelles/7110605
 
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
 ### Geänderte Seiten
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Treite-Choerli.php
+- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -102,9 +99,19 @@
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
 - https://www.muentschemier.ch/index.php?msg=txt_msg_noobjwithbcodefound&apid=5187671
 
+### Neue Seiten
+- https://www.muentschemier.ch/index.php?apid=1857606707&apparentid=5187671
+
+### Nicht mehr gefundene Seiten
+- https://www.muentschemier.ch/index.php?apid=521068554&apparentid=5187671
+
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
+- https://www.ins.ch/
+- https://www.ins.ch/?fnsContrast=1
+- https://www.ins.ch/de/
+- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Budget-2027.php
@@ -116,6 +123,7 @@
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
 - https://www.ins.ch/de/sitemap/
+- https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
@@ -123,29 +131,7 @@
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
 - https://www.ins.ch/de/verwaltung/dienstleistungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
@@ -196,45 +182,57 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
 ### Neue Seiten
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2191
+
+### Nicht mehr gefundene Seiten
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2107
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/
 - https://www.erlach.ch/de/barrierefrei/
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
 - https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
-- https://www.erlach.ch/de/veranstaltungen/
 - https://www.erlach.ch/de/veranstaltungen/561_museum-erlach-offen-14:00---17:00-uhr
 - https://www.erlach.ch/de/veranstaltungen/583_bar
 - https://www.erlach.ch/de/veranstaltungen/584_bar
 - https://www.erlach.ch/de/veranstaltungen/644_konzert;-atelier-pius-19:30---21:00-uhr
+- https://www.erlach.ch/de/veranstaltungen/650_kultur-im-haus
 - https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
 - https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
 - https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
-### Neue Seiten
-- https://www.erlach.ch/de/veranstaltungen/650_kultur-im-haus
-- https://www.erlach.ch/de/verwaltung/lebenslagen/11_sucht-und-drogen&navid=701326701326
-
-### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/index.php
-
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
 - https://www.kerzers.ch/
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/152/eventdate/165
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/154/eventdate/97
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/159/eventdate/100
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/161/eventdate/167
-- https://www.kerzers.ch/gemeinde/ortsplanung/ortsplanung.html/132
-- https://www.kerzers.ch/gemeinde/verwaltung/gemeindeverwaltung.html/49
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/15
+- https://www.kerzers.ch/gemeinde/heute/publikationen.html/9
+- https://www.kerzers.ch/gemeinde/politik/gemeinderat.html/58
+- https://www.kerzers.ch/gemeinde/wirtschaft/finanzkennzahlen.html/70
+- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
+- https://www.kerzers.ch/leben-in-kerzers/integration.html/36
+- https://www.kerzers.ch/leben-in-kerzers/neu-in-kerzers.html/26
+- https://www.kerzers.ch/portrait.html/10
+- https://www.kerzers.ch/portrait/fotogalerie.html/22
+- https://www.kerzers.ch/portrait/geschichte.html/11
+- https://www.kerzers.ch/portrait/webcam.html/25
+- https://www.kerzers.ch/portrait/zahlen-fakten.html/21
+- https://www.kerzers.ch/services/sitemap.html/5
+- https://www.kerzers.ch/services/sitemap.html/5/l/desitemap
 
 ### Neue Seiten
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/156/eventdate/166
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/351/eventdate/251
+- https://www.kerzers.ch/route/core-hp/page/39
+
+### Nicht mehr gefundene Seiten
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/152/eventdate/165
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/154/eventdate/97
 - https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/3
 - https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/4
+- https://www.kerzers.ch/route/core-hp/page/35
