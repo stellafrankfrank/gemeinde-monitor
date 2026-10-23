@@ -2,7 +2,7 @@
 
 ## https://www.xn--twann-tscherz-2ob.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://gis.geoplangis.ch/twann-tuescherz/
 - https://www.xn--twann-tscherz-2ob.ch/
 - https://www.xn--twann-tscherz-2ob.ch/abfallarten
@@ -14,9 +14,9 @@
 - https://www.xn--twann-tscherz-2ob.ch/abstimmungen/vorlagen
 - https://www.xn--twann-tscherz-2ob.ch/aenderunguferschutzplanung
 - https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3011254
 - https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3011767
 - https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3026563
+- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3029497
 - https://www.xn--twann-tscherz-2ob.ch/anlaesseaktuelles
 - https://www.xn--twann-tscherz-2ob.ch/anlaesseaktuelles/7115843
 - https://www.xn--twann-tscherz-2ob.ch/attraktiveorte
@@ -123,7 +123,7 @@
 
 ## https://www.ligerz.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.ligerz.ch/
 - https://www.ligerz.ch/abfallarten
 - https://www.ligerz.ch/abfallartendf/25018
@@ -220,6 +220,21 @@
 - https://www.ligerz.ch/virtuelledienste
 - https://www.ligerz.ch/weinbau
 
+## https://www.jens.ch/de/willkommen/
+
+### Geänderte Seiten
+- https://www.jens.ch/de/aktuell/agenda/
+- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=10&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=642e56e5721a107c352eda29eebfe47f
+- https://www.jens.ch/de/aktuell/agenda/currentPage/2/
+- https://www.jens.ch/de/leben-freizeit/agenda/
+- https://www.jens.ch/de/willkommen/
+
+### Neue Seiten
+- https://www.jens.ch/de/aktuell/agenda/details/bierverein-jens-itzer-rampenverkauf-3/
+
+### Nicht mehr gefundene Seiten
+- https://www.jens.ch/de/aktuell/agenda/details/uebung-der-regio-feuerwehr-aarberg/
+
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
@@ -268,89 +283,15 @@
 - https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
 - https://www.walperswil.ch/de/sitemap/
 - https://www.walperswil.ch/de/verwaltung/formulare.php
-- https://www.walperswil.ch/de/verwaltung/onlineschalter.php
-
-### Neue Seiten
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/10_ausweis-%C3%BCber-den-registrierten-familienstand---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/12_heirat-und-eingetragene-partnerschaft
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/13_familienausweis---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/14_personenstandsausweis---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/1_abfallentsorgung
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/20_m%C3%BCtter--und-v%C3%A4terberatungsstelle---informationen-einholen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/2_ahv-zweigstelle---informationen-
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/32_jugendfachstelle
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/40_versichertenausweis-(ahv-karte)---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/41_sozialhilfe---beantragen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/9_pass-und-identit%C3%A4tskarte
-
-### Nicht mehr gefundene Seiten
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=1
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=13
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=29
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=30
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=31
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=9
 
 ## https://hagneck.ch/
 
-### Neue Seiten
-- https://hagneck.ch/
-- https://hagneck.ch/2124-2/
-- https://hagneck.ch/2170-2/
-- https://hagneck.ch/2255-2/
-- https://hagneck.ch/2546-2/
-- https://hagneck.ch/abfall-infos-2026/
-- https://hagneck.ch/abgeordnete-naturschutz/
-- https://hagneck.ch/abschlussarbeiten-am-kreuzwegkreisel-nidau-ipsach-28-9-3-10-2026/
-- https://hagneck.ch/aktuelles/
-- https://hagneck.ch/altmetallsammlung-2024-keine-durchfuehrung/
-- https://hagneck.ch/altmetallsammlung-2025-keine-durchfuehrung/
-- https://hagneck.ch/asiatische-hornisse/
-- https://hagneck.ch/aus-dem-gemeinderat-april-2025/
-- https://hagneck.ch/aus-dem-gemeinderat-maerz-2025/
-- https://hagneck.ch/bahnlinie-asm-betriebsunterbruch-mit-bahnersatz/
-- https://hagneck.ch/baustart-der-sanierung-der-walperswilbruecke-verschoben/
-- https://hagneck.ch/behoerden/
-- https://hagneck.ch/bericht-zur-gemeindeversammlung-vom-4-6-2025/
-- https://hagneck.ch/blaualgen-auf-dem-bielersee/
-- https://hagneck.ch/datenschutz/
-- https://hagneck.ch/erteilte-baubewilligungen/
-- https://hagneck.ch/gemeindeversammlung-27-november-2025/
-- https://hagneck.ch/gemeindeversammlung-4-juni-2026/
-- https://hagneck.ch/gemeindeversammlung-vom-4-juni-2025/
-- https://hagneck.ch/gemeindeverwaltung/
-- https://hagneck.ch/haeckseldienst-fruehling-2/
-- https://hagneck.ch/haeckseldienst-fruehling-2026/
-- https://hagneck.ch/haeckseldienst-fruehling/
-- https://hagneck.ch/impressum/
-- https://hagneck.ch/information-ueber-notfalltreffpunkt/
-- https://hagneck.ch/jaehrliche-informationspflicht-trinkwasserqualitaet/
+### Geänderte Seiten
 - https://hagneck.ch/kontakt/
-- https://hagneck.ch/leben/
-- https://hagneck.ch/neophyten-bekaempfung/
-- https://hagneck.ch/neophyten/
-- https://hagneck.ch/neuer-standort-kehrichtsammelstelle-erlenweg-hagneck/
-- https://hagneck.ch/oeffentliche-auflage-zur-revision-der-naturschutzgebiete-aaredelta-hagneck-und-seestrand-luescherz/
-- https://hagneck.ch/papiersammlung-samstag-14-maerz-26/
-- https://hagneck.ch/poststelle-taeuffelen-filiale-mit-partner-bei-swidro-drogerie-ab-28-09-2026/
-- https://hagneck.ch/sanierung-der-walperswilbruecke-startet-am-7-september-2026/
-- https://hagneck.ch/sanierung-walperswilbruecke/
-- https://hagneck.ch/sophie-schumacher-aus-hagneck-weltbeste-lkw-mechanikerin/
-- https://hagneck.ch/stelleninserat-fachperson-efz-betriebsunterhalt-oberstufenzentrum-taeuffelen-100/
-- https://hagneck.ch/stoerungen-an-der-oeffentlichen-beleuchtung-online-melden/
-- https://hagneck.ch/suche-verwaltungsangestellte-r/
-- https://hagneck.ch/verkehrsbehinderung-burgerstrasse-reservatweg-taeuffelen/
-- https://hagneck.ch/zahlungsmittel-schalter-gemeindeverwaltung/
-- https://hagneck.ch/zurueckschneiden-hecken-und-straeucher/
 
 ## https://www.bruettelen.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.bruettelen.ch/
 - https://www.bruettelen.ch/abfallartendf/25586
 - https://www.bruettelen.ch/abfalldaten
@@ -446,35 +387,13 @@
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
 ### Geänderte Seiten
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
-- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Adventsmaerit.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Gewerbeverein-Muentschemier.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Hochzeitschuetzen.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Treite-Choerli.php
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
-- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
@@ -490,34 +409,16 @@
 
 ### Geänderte Seiten
 - https://vinelz.ch/aktuelles
-- https://vinelz.ch/informationen/aemter-und-adressen
-- https://vinelz.ch/informationen/aemter-und-adressen/grundbuchamt-seeland
-- https://vinelz.ch/informationen/aemter-und-adressen/regionalgericht-berner-jura-seeland
-- https://vinelz.ch/informationen/aemter-und-adressen/strassenverkehrs-und-schifffahrtsamt-des-kantons-bern
-- https://vinelz.ch/informationen/aemter-und-adressen/verein-pro-fenis-hasenburg
-- https://vinelz.ch/informationen/aemter-und-adressen/verein-pro-fenis-hasenburg-1
-- https://vinelz.ch/informationen/aemter-und-adressen/wildhut
-- https://vinelz.ch/informationen/aemter-und-adressen/zivilschutzorganisation-bielersee-sued-west
-- https://vinelz.ch/informationen/bildung
-- https://vinelz.ch/informationen/vinelz-in-zahlen
-- https://vinelz.ch/online-schalter/ahv-zweigstelle
-- https://vinelz.ch/online-schalter/bauwesen
-- https://vinelz.ch/online-schalter/betreuungsgutscheine
-- https://vinelz.ch/online-schalter/bootshafen
-- https://vinelz.ch/online-schalter/vermietung
-- https://vinelz.ch/standard-titel/standard-titel
-- https://vinelz.ch/subnav/anmeldeformular-warteliste-bootshafen
-- https://vinelz.ch/subnav/kontakt
-- https://vinelz.ch/subnav/sitemap
-- https://vinelz.ch/veranstaltungen/alte-landi
 
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
+- https://www.ins.ch/
+- https://www.ins.ch/?fnsContrast=1
+- https://www.ins.ch/de/
+- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
-- https://www.ins.ch/de/aktuelles/meldungen/Budget-2027.php
-- https://www.ins.ch/de/aktuelles/meldungen/deckastverkauf.php
 - https://www.ins.ch/de/aktuelles/meldungen/gemeindewahlen.php
 - https://www.ins.ch/de/aktuelles/meldungen/sperrung-n20.php
 - https://www.ins.ch/de/barrierefrei/
@@ -530,7 +431,6 @@
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 - https://www.ins.ch/de/verwaltung/dienstleistungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
@@ -600,41 +500,55 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
+### Neue Seiten
+- https://www.ins.ch/de/aktuelles/meldungen/gemeindeversammlung-27.11.2026.php
+- https://www.ins.ch/de/aktuelles/meldungen/stellenausschreibung-primarschule.php
+
+### Nicht mehr gefundene Seiten
+- https://www.ins.ch/de/aktuelles/meldungen/Budget-2027.php
+- https://www.ins.ch/de/aktuelles/meldungen/deckastverkauf.php
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
+
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
+- https://www.erlach.ch/de/
+- https://www.erlach.ch/de/aktuelles/
+- https://www.erlach.ch/de/barrierefrei/
+- https://www.erlach.ch/de/bildung-soziales/soziales/Schulsozialarbeit-Region-Erlach/
+- https://www.erlach.ch/de/datenschutz/
+- https://www.erlach.ch/de/datenschutz/index.php
+- https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.erlach.ch/de/sitemap/
+- https://www.erlach.ch/de/veranstaltungen/583_bar
+- https://www.erlach.ch/de/veranstaltungen/584_bar
+- https://www.erlach.ch/de/veranstaltungen/585_bar--amp;-disco
+- https://www.erlach.ch/de/veranstaltungen/650_kultur-im-haus
+- https://www.erlach.ch/de/veranstaltungen/658_umgang-mit-ver%C3%A4nderungen-und-verlusten-und-die-kraft-des-humors---anlass-der-pro-senectute
+- https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
+- https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
+- https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
-## https://tschugg.ch/
-
-### Geänderte Seiten
-- https://tschugg.ch/bildung/musikschule-seeland/
-- https://tschugg.ch/bildung/oberstufenschule/
-- https://tschugg.ch/bildung/spielgruppe/
-- https://tschugg.ch/bildung/tagesschule/
-- https://tschugg.ch/energie-und-verkehr/energie/
-- https://tschugg.ch/energie-und-verkehr/oeffentlicher-verkehr/
-- https://tschugg.ch/freizeit-und-tourismus/attraktionen/
-- https://tschugg.ch/freizeit-und-tourismus/rebbau-in-tschugg/
-- https://tschugg.ch/freizeit-und-tourismus/swin-golf/
-- https://tschugg.ch/gemeindeverwaltung/ahv-zweigstelle-jolimont/
-- https://tschugg.ch/gewerbe/lokales-gewerbe/
-- https://tschugg.ch/gewerbe/rehaklinik-tschugg/
-- https://tschugg.ch/online-schalter/abfallentsorgung/
-- https://tschugg.ch/online-schalter/betreuungsgutscheine/
-- https://tschugg.ch/politik/gemeinderat/
-- https://tschugg.ch/soziales-und-gesundheit/reformierte-kirche-erlach-tschugg/
-- https://tschugg.ch/soziales-und-gesundheit/rotkreuzfahrdienst/
-- https://tschugg.ch/soziales-und-gesundheit/selbsthilfe-be/
-- https://tschugg.ch/wohnen/immobilienmarkt/
-- https://tschugg.ch/wohnen/zonenplan/
+### Neue Seiten
+- https://www.erlach.ch/de/verwaltung/dienstleistungen/108_tagesschule
+- https://www.erlach.ch/de/verwaltung/dienstleistungen/109_regionale-kinder--und-jugendfachstelle-t%C3%A4uffelen---ins---erlach
+- https://www.erlach.ch/de/verwaltung/dienstleistungen/121_spielgruppen
+- https://www.erlach.ch/de/verwaltung/lebenslagen/21_pflege-und-pflegeheim&navid=196820196820
 
 ### Nicht mehr gefundene Seiten
-- https://tschugg.ch/index.php?id=175
+- https://www.erlach.ch/de/aktuelles/meldungen/Achtung-im-Wald.php
+- https://www.erlach.ch/de/aktuelles/meldungen/Laeset-Sunntige-2026.php
+- https://www.erlach.ch/de/aktuelles/meldungen/Schlussuebung-Feuerwehr-2026.php
+- https://www.erlach.ch/de/aktuelles/meldungen/Wasserleitungsbruch-Burgerweg.php
 
 ## https://www.fraeschels.ch/
 
-### Nicht mehr gefundene Seiten
+### Geänderte Seiten
+- https://www.fraeschels.ch/politik/kommissionen
+
+### Neue Seiten
 - https://www.fraeschels.ch/news/hochwasserschutz-und-revitalisierung-grosses-moos
 - https://www.fraeschels.ch/news/protokoll-eidg-abstimmung-241124
 - https://www.fraeschels.ch/news/protokolle-eidg-kant-abstimmung-090225
@@ -642,7 +556,7 @@
 
 ## https://www.kerzers.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.kerzers.ch/
 - https://www.kerzers.ch/gemeinde/heute/agenda.html/15
 - https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/163/eventdate/168
