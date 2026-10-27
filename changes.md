@@ -1,10 +1,5 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.ligerz.ch/
-
-### Geänderte Seiten
-- https://www.ligerz.ch/datenschutz
-
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
@@ -12,7 +7,7 @@
 
 ## https://epsach.ch/
 
-### Geänderte Seiten
+### Nicht mehr gefundene Seiten
 - https://epsach.ch/
 - https://epsach.ch/ahv-zweigstelle/
 - https://epsach.ch/aktuelles/
@@ -46,61 +41,18 @@
 - https://epsach.ch/verwaltung/entsorgen/
 - https://epsach.ch/verwaltung/regio-feuerwehr/
 - https://epsach.ch/verwaltung/reglemente/
+- https://epsach.ch/wp-login.php
+- https://epsach.ch/wp-login.php?action=lostpassword
+- https://epsach.ch/wp-login.php?redirect_to=https%3A%2F%2Fepsach.ch%2Fwp-admin%2Fprofile.php&reauth=1
 
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
 - https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
 - https://www.walperswil.ch/de/sitemap/
-- https://www.walperswil.ch/de/verwaltung/abteilungen/
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=123&navid=596101596101
 - https://www.walperswil.ch/de/verwaltung/formulare.php
-- https://www.walperswil.ch/de/verwaltung/onlineschalter.php
 
 ### Neue Seiten
-- https://www.walperswil.ch/de/verwaltung/abteilungen/10_weta-bus
-- https://www.walperswil.ch/de/verwaltung/abteilungen/11_hauswart-schulanlage
-- https://www.walperswil.ch/de/verwaltung/abteilungen/12_einwohner----fremdenkontrolle
-- https://www.walperswil.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
-- https://www.walperswil.ch/de/verwaltung/abteilungen/3_ahv-zweigstelle
-- https://www.walperswil.ch/de/verwaltung/abteilungen/5_finanzverwaltung
-- https://www.walperswil.ch/de/verwaltung/abteilungen/6_bauverwaltung
-- https://www.walperswil.ch/de/verwaltung/abteilungen/7_schulsekretariat
-- https://www.walperswil.ch/de/verwaltung/abteilungen/8_steuerb%C3%BCro
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/10_ausweis-%C3%BCber-den-registrierten-familienstand---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/12_heirat-und-eingetragene-partnerschaft
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/13_familienausweis---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/14_personenstandsausweis---bestellen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/1_abfallentsorgung
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/20_m%C3%BCtter--und-v%C3%A4terberatungsstelle---informationen-einholen
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/29_umzug-innerhalb-der-gemeinde
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/2_ahv-zweigstelle---informationen-
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/30_wohnsitz---abmelden
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/9_pass-und-identit%C3%A4tskarte
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=138
-
-### Nicht mehr gefundene Seiten
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=10
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=11
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=12
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=5
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
-- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=1
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=13
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=40
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=41
-- https://www.walperswil.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=9
 - https://www.walperswil.ch/de/weta-bus/
 
 ## https://hagneck.ch/
@@ -108,19 +60,81 @@
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://www.bruettelen.ch/
-
-### Geänderte Seiten
-- https://www.bruettelen.ch/datenschutz
-
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
-### Geänderte Seiten
+### Nicht mehr gefundene Seiten
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/index.php?navid=228709228709
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/index.php?navid=500622500622
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
+- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/abfallkalender/index.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/agenda/index.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/carsharing-autoteilen/index.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/index.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/oereb-kataster/index.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/ortsplanungsrevision/index.php
+- https://www.treiten.ch/gemeinde-treiten/aktuelles/projekte/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/archiv/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/bauland/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/bildergalerie/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/geschichte/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/kurzinfo/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/portrait/index.php
+- https://www.treiten.ch/gemeinde-treiten/gemeinde/vereine/index.php
+- https://www.treiten.ch/gemeinde-treiten/index.php
+- https://www.treiten.ch/gemeinde-treiten/kommissionen/index.php
+- https://www.treiten.ch/gemeinde-treiten/kontakt/index.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/index.php?navid=500503500503
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/index.php?navid=520466520466
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2554545685.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
+- https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
+- https://www.treiten.ch/gemeinde-treiten/news/oeffentliche-mitwirkung-kiesgrube/index.php
+- https://www.treiten.ch/gemeinde-treiten/politik/abstimmungen/index.php
+- https://www.treiten.ch/gemeinde-treiten/politik/gemeindeversammlungen/index.php
+- https://www.treiten.ch/gemeinde-treiten/politik/organisation/index.php
+- https://www.treiten.ch/gemeinde-treiten/reservationen/Saal/index.php
+- https://www.treiten.ch/gemeinde-treiten/reservationen/trunhalle/index.php
+- https://www.treiten.ch/gemeinde-treiten/schule/betreuungsgutscheine/index.php
+- https://www.treiten.ch/gemeinde-treiten/schule/index.php
+- https://www.treiten.ch/gemeinde-treiten/unternehmen/index.php
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/abwasserentsorgung/index.php
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/gruenabfuhr/index.php
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/index.php?navid=916032916032
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/index.php?navid=990662990662
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/kehrichtentsorgung/index.php
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/kunststoffsammlung/index.php
+- https://www.treiten.ch/gemeinde-treiten/ver-und-entsorgung/neophyten/index.php
+- https://www.treiten.ch/gemeinde-treiten/veranstaltungen/index.php?navid=590242590242
+- https://www.treiten.ch/gemeinde-treiten/veranstaltungen/index.php?navid=738433738433
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/datenschutz/index.php
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/fundbuero/index.php
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/hunderegistrierung/index.php
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/regionaler-sozialdienst/regionaler-sozialdienst.php
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/reglemente/index.php
+- https://www.treiten.ch/gemeinde-treiten/verwaltung/schalter/index.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schreinerei-Handwerkershop.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumacher-Tief-und-Gartenbau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Adventsmaerit.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Gewerbeverein-Muentschemier.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Hochzeitschuetzen.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
+- https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Treite-Choerli.php
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
@@ -130,24 +144,15 @@
 ### Geänderte Seiten
 - https://www.muentschemier.ch/index.php?&apid=1576568
 - https://www.muentschemier.ch/index.php?&apid=16476566
+- https://www.muentschemier.ch/index.php?apid=1078279141&apparentid=1328612653
 - https://www.muentschemier.ch/index.php?apid=1575868884&apparentid=1328612653
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
 
-### Neue Seiten
-- https://www.muentschemier.ch/index.php?apid=663220897&apparentid=5187671
-
-### Nicht mehr gefundene Seiten
-- https://www.muentschemier.ch/index.php?apid=1198171582&apparentid=5187671
-
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/
-- https://www.ins.ch/?fnsContrast=1
-- https://www.ins.ch/de/
-- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Budget-2027.php
@@ -158,12 +163,12 @@
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=E
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
@@ -183,18 +188,12 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
 
 ### Neue Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2024
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2108
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2195
-
-### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2192
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2193
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2194
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
 
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
+- https://www.erlach.ch/de/abfallwirtschaft/abfallkalender/
 - https://www.erlach.ch/de/barrierefrei/
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
@@ -210,40 +209,11 @@
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
 - https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
 
-## https://gals.ch/
-
-### Geänderte Seiten
-- https://gals.ch/
-
 ## https://www.kerzers.ch/
 
-### Geänderte Seiten
-- https://www.kerzers.ch/
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/172/eventdate/171
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/356/eventdate/241
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/403/eventdate/274
-- https://www.kerzers.ch/gemeinde/heute/publikationen.html/16/news/12
-- https://www.kerzers.ch/gemeinde/heute/publikationen.html/16/news/25
-- https://www.kerzers.ch/gemeinde/heute/publikationen.html/9
-- https://www.kerzers.ch/gemeinde/ortsplanung/ortsplanung.html/132
-- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
-- https://www.kerzers.ch/leben-in-kerzers/kirche.html/37
-- https://www.kerzers.ch/leben-in-kerzers/neu-in-kerzers.html/26
-- https://www.kerzers.ch/leben-in-kerzers/umwelt/entsorgung.html/19
-- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35
-- https://www.kerzers.ch/portrait.html/10
-- https://www.kerzers.ch/portrait/ortsplan.html/23
-- https://www.kerzers.ch/portrait/zahlen-fakten.html/21
-- https://www.kerzers.ch/services/sitemap.html/5
-- https://www.kerzers.ch/services/sitemap.html/5/l/desitemap
-
 ### Neue Seiten
-- https://www.kerzers.ch/gemeinde/heute/publikationen.html/16/news/34
-- https://www.kerzers.ch/route/core-hp/page/19
-- https://www.kerzers.ch/route/core-hp/page/36
-- https://www.kerzers.ch/route/core-hp/page/37
-- https://www.kerzers.ch/route/core-hp/page/39
-- https://www.kerzers.ch/route/core-hp/page/44
-
-### Nicht mehr gefundene Seiten
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/84/eventdate/57
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/2
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/3
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/4
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/82/association/18
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/82/association/19
