@@ -1,16 +1,5 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.xn--twann-tscherz-2ob.ch/
-
-### Geänderte Seiten
-- https://www.xn--twann-tscherz-2ob.ch/
-
-### Neue Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3038500
-
-### Nicht mehr gefundene Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3031120
-
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
@@ -20,48 +9,28 @@
 
 ### Geänderte Seiten
 - https://epsach.ch/
-- https://epsach.ch/ahv-zweigstelle/
 - https://epsach.ch/aktuelles/
-- https://epsach.ch/altersleitbild-sozialregion-erlach-2023/
-- https://epsach.ch/asiatische-hornisse/
-- https://epsach.ch/ausserordentliche-gemeindeversammlung/
-- https://epsach.ch/datenschutz/
-- https://epsach.ch/der-neue-weta-bus-ist-da/
-- https://epsach.ch/epsiger-info-2024-2/
-- https://epsach.ch/epsiger-info-2024-4/
-- https://epsach.ch/gemeindeversammlung-vom-14-juni-2024/
-- https://epsach.ch/gemeindeversammlung-vom-21-11-2025/
-- https://epsach.ch/gemeindeversammlung/
-- https://epsach.ch/gesucht-fachperson-efz-betriebsunterhalt/
-- https://epsach.ch/gewerbe/
-- https://epsach.ch/impressum/
-- https://epsach.ch/kontakt/
-- https://epsach.ch/notfalltreffpunkt/
-- https://epsach.ch/oeffnungszeiten-gemeindeverwaltung/
-- https://epsach.ch/politik/
-- https://epsach.ch/politik/funktionaere/
-- https://epsach.ch/portraet/
-- https://epsach.ch/regionaler-richtplan-windenergie-mitwirkung-der-gemeinden/
-- https://epsach.ch/sanierung-walperswilbruecke-2/
-- https://epsach.ch/schule-epsach/
-- https://epsach.ch/stelleninserat-verwaltungsangestellte-r/
-- https://epsach.ch/vereine/
-- https://epsach.ch/verwaltung/
-- https://epsach.ch/verwaltung/dienstleistungen/
-- https://epsach.ch/verwaltung/entsorgen/
-- https://epsach.ch/verwaltung/regio-feuerwehr/
-- https://epsach.ch/verwaltung/reglemente/
+
+### Neue Seiten
+- https://epsach.ch/epsiger-info-gemeindeversammlung/
+- https://epsach.ch/oeffnungszeiten-gemeindeverwaltung-2/
 
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
 - https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
 - https://www.walperswil.ch/de/sitemap/
+- https://www.walperswil.ch/de/verwaltung/formulare.php
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
+
+## https://www.siselen.ch/
+
+### Geänderte Seiten
+- https://www.siselen.ch/bildung/primarstufe-kindergarten/
 
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
@@ -71,7 +40,6 @@
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
-- https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
@@ -79,7 +47,6 @@
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
-- https://www.treiten.ch/gemeinde-treiten/unternehmen/index.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
@@ -98,41 +65,24 @@
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
 
-### Neue Seiten
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/6268135480.php
-
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
 ### Geänderte Seiten
 - https://www.muentschemier.ch/index.php?&apid=1576568
-- https://www.muentschemier.ch/index.php?&apid=16476566
 - https://www.muentschemier.ch/index.php?apid=1575868884&apparentid=1328612653
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
-- https://www.muentschemier.ch/index.php?apid=2099268525&apparentid=1884828324
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
-- https://www.muentschemier.ch/index.php?apid=82597953&apparentid=5187671
 
 ### Neue Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=9623bf9fb4dc02cd01db2ed721181d82&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=e0dc4295ff0cc64b92bc82fef9daa2e6&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
 
 ### Nicht mehr gefundene Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=e33486145ad1fcc88fc2d36cbe194cfa&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
-
-## https://vinelz.ch/
-
-### Geänderte Seiten
-- https://vinelz.ch/online-schalter/notfalltreffpunkt
-- https://vinelz.ch/subnav/anmeldeformular-warteliste-bootshafen
-- https://vinelz.ch/subnav/kontakt
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=9623bf9fb4dc02cd01db2ed721181d82&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
 
 ## https://www.ins.ch/
 
 ### Geänderte Seiten
-- https://www.ins.ch/
-- https://www.ins.ch/?fnsContrast=1
-- https://www.ins.ch/de/
-- https://www.ins.ch/de/?fnsContrast=1
 - https://www.ins.ch/de/aktuelles/
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Budget-2027.php
@@ -144,7 +94,6 @@
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
 - https://www.ins.ch/de/sitemap/
-- https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
@@ -153,8 +102,30 @@
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 - https://www.ins.ch/de/verwaltung/dienstleistungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=E
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=S
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=T
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=U
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=V
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=W
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
@@ -204,23 +175,15 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
-### Neue Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2054
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2142
-
-### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2195
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2196
-- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=145
-
 ## https://www.erlach.ch/de/
 
 ### Geänderte Seiten
-- https://www.erlach.ch/de/abfallwirtschaft/abfallkalender/
 - https://www.erlach.ch/de/barrierefrei/
 - https://www.erlach.ch/de/datenschutz/
 - https://www.erlach.ch/de/datenschutz/index.php
 - https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.erlach.ch/de/kontakte/?kategorie_id=1&navid=843822843822
+- https://www.erlach.ch/de/kontakte/?kategorie_id=8&navid=646780646780
 - https://www.erlach.ch/de/sitemap/
 - https://www.erlach.ch/de/veranstaltungen/585_bar--amp;-disco
 - https://www.erlach.ch/de/veranstaltungen/645_konzert;-atelier-pius-19:30---21:00-uhr
@@ -228,6 +191,8 @@
 - https://www.erlach.ch/de/veranstaltungen/658_umgang-mit-ver%C3%A4nderungen-und-verlusten-und-die-kraft-des-humors---anlass-der-pro-senectute
 - https://www.erlach.ch/de/veranstaltungen/659_erlacher-erz%C3%A4hlnacht
 - https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.erlach.ch/de/verwaltung/abteilungen/5_regionaler-sozialdienst-erlach
+- https://www.erlach.ch/de/verwaltung/abteilungen/5_sozialabteilung---regionaler-sozialdienst-erlach
 - https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
 - https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
 - https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
@@ -235,26 +200,11 @@
 
 ## https://www.kerzers.ch/
 
-### Geänderte Seiten
-- https://www.kerzers.ch/
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/15
-- https://www.kerzers.ch/gemeinde/heute/publikationen.html/9
-- https://www.kerzers.ch/gemeinde/ortsplanung/ortsplanung.html/132
-- https://www.kerzers.ch/gemeinde/politik/gemeinderat.html/58
-- https://www.kerzers.ch/gemeinde/wirtschaft/finanzkennzahlen.html/70
-- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
-- https://www.kerzers.ch/leben-in-kerzers/freizeit/sehenswuerdigkeiten.html/28
-- https://www.kerzers.ch/leben-in-kerzers/integration.html/36
-- https://www.kerzers.ch/leben-in-kerzers/neu-in-kerzers.html/26
-- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35
-- https://www.kerzers.ch/portrait/geschichte.html/11
-- https://www.kerzers.ch/portrait/ortsplan.html/23
-- https://www.kerzers.ch/portrait/serie-blick-hinter-die-kulissen-der-gemeinde-kerzers.html/24
-- https://www.kerzers.ch/portrait/zahlen-fakten.html/21
-- https://www.kerzers.ch/services/sitemap.html/5
-- https://www.kerzers.ch/services/sitemap.html/5/l/desitemap
-
-### Nicht mehr gefundene Seiten
-- https://www.kerzers.ch/route/core-hp/page/36
+### Neue Seiten
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/2
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/3
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35/associationsjsRequest/0/associationspage/4
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/82/association/18
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/82/association/19
+- https://www.kerzers.ch/route/core-hp/page/35
 - https://www.kerzers.ch/route/core-hp/page/37
-- https://www.kerzers.ch/route/core-hp/page/39
