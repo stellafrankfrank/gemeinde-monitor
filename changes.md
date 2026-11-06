@@ -1,103 +1,90 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://merzligen.ch/
+## https://www.ligerz.ch/
 
-### Neue Seiten
-- https://merzligen.ch/
-- https://merzligen.ch/agenda/
-- https://merzligen.ch/aktuelles/
-- https://merzligen.ch/aktuelles/merzligen-brattig-dorfzeitung/
-- https://merzligen.ch/belagsarbeiten-in-jens-am-13-juni-2026-auswirkungen-auf-die-postauto-linie-22-087/
-- https://merzligen.ch/category/aktuelles/
-- https://merzligen.ch/events/gemeindeversammlung/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-1.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-10.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-11.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-12.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-13.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-14.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-15.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-16.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-17.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-18.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-19.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-2.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-20.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-3.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-4.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-5.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-6.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-7.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-8.l-L1/
-- https://merzligen.ch/events/gruenabfuhr/var/ri-9.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-28/
-- https://merzligen.ch/events/seniorenmittagessen-28/var/ri-1.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-28/var/ri-2.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-29/
-- https://merzligen.ch/events/seniorenmittagessen-29/var/ri-1.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-29/var/ri-2.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-29/var/ri-3.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-29/var/ri-4.l-L1/
-- https://merzligen.ch/events/seniorenmittagessen-30/
-- https://merzligen.ch/events/seniorennachmittag-raclette/
-- https://merzligen.ch/events/seniorenweihnachtsfeier-2/
-- https://merzligen.ch/events/volksabstimmung-3/
-- https://merzligen.ch/events/volksabstimmung-3/var/ri-1.l-L1/
-- https://merzligen.ch/events/volksabstimmung-3/var/ri-2.l-L1/
-- https://merzligen.ch/events/volksabstimmung-3/var/ri-3.l-L1/
-- https://merzligen.ch/events/volksabstimmung-3/var/ri-4.l-L1/
-- https://merzligen.ch/events/volksabstimmung-3/var/ri-5.l-L1/
-- https://merzligen.ch/events/volksabstimmung-3/var/ri-6.l-L1/
-- https://merzligen.ch/gemeinderatssitzung-vom-10-august-2026/
-- https://merzligen.ch/gemeinderatssitzung-vom-12-mai-2026-2/
-- https://merzligen.ch/gemeinderatssitzung-vom-14-september-2026/
-- https://merzligen.ch/impressum/
-- https://merzligen.ch/informationen-zu-den-oeffnungszeiten-der-verwaltung/
-- https://merzligen.ch/informationen-zum-eichenprozessionsspinner/
-- https://merzligen.ch/invasive-neophyten/
-- https://merzligen.ch/leben-freizeit/
-- https://merzligen.ch/leben-freizeit/abfall/
-- https://merzligen.ch/leben-freizeit/gewerbe-verzeichnis/
-- https://merzligen.ch/leben-freizeit/ruhezeiten/
-- https://merzligen.ch/leben-freizeit/vereinsverzeichnis/
-- https://merzligen.ch/merzligen-brattig-3/
-- https://merzligen.ch/neubau-radverbindung-bellmund-hermrigen-oeffentliche-planauflage/
-- https://merzligen.ch/politik-behoerden/
-- https://merzligen.ch/politik-behoerden/burgergemeinde-merzligen/
-- https://merzligen.ch/politik-behoerden/gemeinderat/
-- https://merzligen.ch/politik-behoerden/gemeindeversammlung/
-- https://merzligen.ch/politik-behoerden/kommissionen/
-- https://merzligen.ch/politik-behoerden/parteien/
-- https://merzligen.ch/portraet/
-- https://merzligen.ch/sanierung-hermrigengasse-kw-27-kw-30/
-- https://merzligen.ch/schule-familie/
-- https://merzligen.ch/verwaltung/
-- https://merzligen.ch/verwaltung/bauwesen-ebau/
-- https://merzligen.ch/verwaltung/dienstleistungen/
-- https://merzligen.ch/verwaltung/mitarbeitende/
-- https://merzligen.ch/verwaltung/online-schalter/
-- https://merzligen.ch/verwaltung/zustaendigkeiten/
+### Geänderte Seiten
+- https://www.ligerz.ch/datenschutz
 
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
 - https://hermrigen.ch/kontakt/
 
+## https://epsach.ch/
+
+### Geänderte Seiten
+- https://epsach.ch/
+- https://epsach.ch/ahv-zweigstelle/
+- https://epsach.ch/aktuelles/
+- https://epsach.ch/altersleitbild-sozialregion-erlach-2023/
+- https://epsach.ch/asiatische-hornisse/
+- https://epsach.ch/ausserordentliche-gemeindeversammlung/
+- https://epsach.ch/datenschutz/
+- https://epsach.ch/der-neue-weta-bus-ist-da/
+- https://epsach.ch/epsiger-info-2024-2/
+- https://epsach.ch/epsiger-info-2024-4/
+- https://epsach.ch/epsiger-info-gemeindeversammlung/
+- https://epsach.ch/gemeindeversammlung-vom-14-juni-2024/
+- https://epsach.ch/gemeindeversammlung-vom-21-11-2025/
+- https://epsach.ch/gemeindeversammlung/
+- https://epsach.ch/gesucht-fachperson-efz-betriebsunterhalt/
+- https://epsach.ch/gewerbe/
+- https://epsach.ch/impressum/
+- https://epsach.ch/kontakt/
+- https://epsach.ch/notfalltreffpunkt/
+- https://epsach.ch/oeffnungszeiten-gemeindeverwaltung-2/
+- https://epsach.ch/oeffnungszeiten-gemeindeverwaltung/
+- https://epsach.ch/politik/
+- https://epsach.ch/politik/funktionaere/
+- https://epsach.ch/portraet/
+- https://epsach.ch/regionaler-richtplan-windenergie-mitwirkung-der-gemeinden/
+- https://epsach.ch/sanierung-walperswilbruecke-2/
+- https://epsach.ch/schule-epsach/
+- https://epsach.ch/stelleninserat-verwaltungsangestellte-r/
+- https://epsach.ch/vereine/
+- https://epsach.ch/verwaltung/
+- https://epsach.ch/verwaltung/dienstleistungen/
+- https://epsach.ch/verwaltung/entsorgen/
+- https://epsach.ch/verwaltung/regio-feuerwehr/
+- https://epsach.ch/verwaltung/reglemente/
+
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
-- https://www.walperswil.ch/de/aktuelles/meldungen/Gemeindeversammlung-vom.php
-- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
+- https://www.walperswil.ch/de/sitemap/
+- https://www.walperswil.ch/de/verwaltung/abteilungen/
+
+### Neue Seiten
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=10
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=11
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=12
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=5
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
+- https://www.walperswil.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
+
+### Nicht mehr gefundene Seiten
+- https://www.walperswil.ch/de/verwaltung/abteilungen/10_weta-bus
+- https://www.walperswil.ch/de/verwaltung/abteilungen/11_hauswart-schulanlage
+- https://www.walperswil.ch/de/verwaltung/abteilungen/12_einwohner----fremdenkontrolle
+- https://www.walperswil.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.walperswil.ch/de/verwaltung/abteilungen/3_ahv-zweigstelle
+- https://www.walperswil.ch/de/verwaltung/abteilungen/5_finanzverwaltung
+- https://www.walperswil.ch/de/verwaltung/abteilungen/6_bauverwaltung
+- https://www.walperswil.ch/de/verwaltung/abteilungen/7_schulsekretariat
+- https://www.walperswil.ch/de/verwaltung/abteilungen/8_steuerb%C3%BCro
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://www.bruettelen.ch/
+## https://www.siselen.ch/
 
 ### Geänderte Seiten
-- https://www.bruettelen.ch/datenschutz
+- https://www.siselen.ch/kultur-freizeit/vereine/
 
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
@@ -106,19 +93,14 @@
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/2811126601.php
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/3389007576.php
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/7305859290.php
-- https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/8423175812.php
-- https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1003548268.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/1519928067.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/2520047407.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/3115964365.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/5657998808.php
 - https://www.treiten.ch/gemeinde-treiten/mitarbeiter/personen/7517219309.php
-- https://www.treiten.ch/gemeinde-treiten/unternehmen/index.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Garage-Ren-Waelti.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Landyeggen.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Malerei-Gipserei-Maeder-AG.php
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Schumibau.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Waelti-Werkstatt-AG.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Adventsmaerit.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Feldschuetzen-Treiten.php
@@ -127,30 +109,39 @@
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Landfrauen-Treiten.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Theaterverein-Treiten.php
 - https://www.treiten.ch/gemeinde-treiten/vorlage_vereine/vereine/Treite-Choerli.php
-- https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_307812
 - https://www.treiten.ch/gemeinde-treiten/wGlobal/content/galleries/gallery.php?gallery=gallery_895508
-
-### Neue Seiten
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/Restaurant-Baeren-Treiten-1.php
-
-### Nicht mehr gefundene Seiten
-- https://www.treiten.ch/gemeinde-treiten/vorlage_unternehmen/unternehmen/6268135480.php
 
 ## https://www.muentschemier.ch/index.php?apid=5187671
 
 ### Geänderte Seiten
 - https://www.muentschemier.ch/index.php?&apid=1576568
 - https://www.muentschemier.ch/index.php?apid=1575868884&apparentid=1328612653
+- https://www.muentschemier.ch/index.php?apid=1576568
+- https://www.muentschemier.ch/index.php?apid=1576568&apparentid=1884828324
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit
 - https://www.muentschemier.ch/index.php?apid=2034475718&mode=edit&ref=5187671
 - https://www.muentschemier.ch/index.php?apid=5187671&cmd=weather&step=2
 
 ### Neue Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=6fbbb56f7336a660a2aefc5c73fddaf0&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=512fd348fe991ff516fc14e62469476b&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
+- https://www.muentschemier.ch/index.php?apid=1277700663
+- https://www.muentschemier.ch/index.php?apid=1277700663&apdo=login
+- https://www.muentschemier.ch/index.php?apid=1277700663&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=1277700663&apparentid=5187671
+- https://www.muentschemier.ch/index.php?apparentid=5187671&apid=663220897
 
 ### Nicht mehr gefundene Seiten
-- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=1341c5dcd11a6aa1f3693a51501dcd5e&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
+- https://www.muentschemier.ch/appl/api.php?do=searchFetchMore&hash=6fbbb56f7336a660a2aefc5c73fddaf0&p=1&requri=%2Findex.php%3F%26apid%3D1576568&cid=wrapperSearchMatches1576568_8979b288699ce040e7a997c14b23d67e
+- https://www.muentschemier.ch/index.php?apid=1270280278&apparentid=1576568
+- https://www.muentschemier.ch/index.php?apid=5216903
+- https://www.muentschemier.ch/index.php?apid=5216903&apdo=login
+- https://www.muentschemier.ch/index.php?apid=5216903&apparentid=5187671
+
+## https://vinelz.ch/
+
+### Geänderte Seiten
+- https://vinelz.ch/standard-titel/standard-titel
 
 ## https://www.ins.ch/
 
@@ -165,7 +156,6 @@
 - https://www.ins.ch/de/datenschutz/
 - https://www.ins.ch/de/datenschutz/nutzungsbedingungen.php
 - https://www.ins.ch/de/impressum/
-- https://www.ins.ch/de/portrait/webcam/
 - https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2026
@@ -179,6 +169,7 @@
 - https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 - https://www.ins.ch/de/verwaltung/dienstleistungen/
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=A
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=B
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=C
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=D
@@ -187,12 +178,8 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=H
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=I
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=J
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=K
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=L
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=M
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=N
-- https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=O
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=P
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Q
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=R
@@ -253,15 +240,60 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
 - https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
+## https://www.erlach.ch/de/
+
+### Geänderte Seiten
+- https://www.erlach.ch/de/
+- https://www.erlach.ch/de/barrierefrei/
+- https://www.erlach.ch/de/datenschutz/
+- https://www.erlach.ch/de/datenschutz/index.php
+- https://www.erlach.ch/de/datenschutz/nutzungsbedingungen.php
+- https://www.erlach.ch/de/veranstaltungen/585_bar--amp;-disco
+- https://www.erlach.ch/de/veranstaltungen/586_bar
+- https://www.erlach.ch/de/veranstaltungen/645_konzert;-atelier-pius-19:30---21:00-uhr
+- https://www.erlach.ch/de/veranstaltungen/651_kultur-im-haus
+- https://www.erlach.ch/de/veranstaltungen/659_erlacher-erz%C3%A4hlnacht
+- https://www.erlach.ch/de/verwaltung/abteilungen/1_gemeindeschreiberei
+- https://www.erlach.ch/de/verwaltung/lebenslagen/18_schiene-und-%C3%B6ffentlicher-verkehr
+- https://www.erlach.ch/de/verwaltung/lebenslagen/29_n%C3%BCtzliche-links
+
+### Neue Seiten
+- https://www.erlach.ch/de/aktuelles/meldungen/Strassenbelagsanierung-Gals-2.php
+
+### Nicht mehr gefundene Seiten
+- https://www.erlach.ch/de/aktuelles/meldungen/Infos-aus-der-letzten-GR-Sitzung.php
+
+## https://gals.ch/
+
+### Geänderte Seiten
+- https://gals.ch/
+
+## https://www.fraeschels.ch/
+
+### Geänderte Seiten
+- https://www.fraeschels.ch/politik/gemeindeversammlung
+- https://www.fraeschels.ch/verwaltung/bauwesen
+
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
 - https://www.kerzers.ch/
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/15
-
-### Neue Seiten
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/184/eventdate/175
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/186/eventdate/114
 - https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/62/eventdate/39
-- https://www.kerzers.ch/route/core-hp/page/19
+- https://www.kerzers.ch/gemeinde/heute/publikationen.html/16/news/12
+- https://www.kerzers.ch/gemeinde/heute/publikationen.html/16/news/25
+- https://www.kerzers.ch/gemeinde/heute/publikationen.html/16/news/34
+- https://www.kerzers.ch/gemeinde/heute/publikationen.html/9
+- https://www.kerzers.ch/gemeinde/ortsplanung/ortsplanung.html/132
+- https://www.kerzers.ch/gemeinde/verwaltung/gemeindeverwaltung.html/49
+- https://www.kerzers.ch/gemeinde/wirtschaft/finanzkennzahlen.html/70
+- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
+- https://www.kerzers.ch/leben-in-kerzers/neu-in-kerzers.html/26
+- https://www.kerzers.ch/leben-in-kerzers/umwelt/entsorgung.html/19
+- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35
+- https://www.kerzers.ch/portrait/fotogalerie.html/22
 
 ### Nicht mehr gefundene Seiten
-- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/182/eventdate/112
+- https://www.kerzers.ch/route/core-hp/page/19
+- https://www.kerzers.ch/route/core-hp/page/49
