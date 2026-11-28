@@ -1,44 +1,44 @@
 # Änderungen auf Gemeinde-Websites
 
-## https://www.xn--twann-tscherz-2ob.ch/
+## https://www.ligerz.ch/
 
 ### Geänderte Seiten
-- https://www.xn--twann-tscherz-2ob.ch/
+- https://www.ligerz.ch/datenschutz
+
+## https://www.jens.ch/de/willkommen/
+
+### Geänderte Seiten
+- https://www.jens.ch/de/aktuell/agenda/
+- https://www.jens.ch/de/aktuell/agenda/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BoverwriteDemand%5D%5Bmonth%5D=11&tx_news_pi1%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=18eb3b51f504723045627733088ec44f
+- https://www.jens.ch/de/aktuell/news/
+- https://www.jens.ch/de/aktuell/news/currentPage/2/
+- https://www.jens.ch/de/aktuell/news/currentPage/3/
+- https://www.jens.ch/de/leben-freizeit/agenda/
+- https://www.jens.ch/de/willkommen/
 
 ### Neue Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3063394
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3063400
+- https://www.jens.ch/de/aktuell/agenda/details/bierverein-jens-itzer-rampenverkauf/
+- https://www.jens.ch/de/aktuell/news/news-details/entsorgungskalender-2026/
+- https://www.jens.ch/de/aktuell/news/news-details/pro-senectute-des-kt-bern/
+- https://www.jens.ch/de/verwaltung/zustaendigkeiten/liste-der-eintraege/?categories=114&cHash=dacae9fc4cbb48c4c89f17326fbbe71a
 
 ### Nicht mehr gefundene Seiten
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3052747
-- https://www.xn--twann-tscherz-2ob.ch/aktuellesinformationen/3052912
+- https://www.jens.ch/de/aktuell/agenda/currentPage/2/
+- https://www.jens.ch/de/aktuell/agenda/details/gemeindeversammlung/
+- https://www.jens.ch/de/aktuell/news/news-details/gemeindeversammlung-vom-27112026/
+- https://www.jens.ch/de/aktuell/news/news-details/gemeineversammlung-vom-27112026/
 
 ## https://hermrigen.ch/
 
 ### Geänderte Seiten
-- https://hermrigen.ch/ab-maerz-2020-koennen-sie-uns-ihr-baugesuch-elektronisch-einreichen/
-- https://hermrigen.ch/abstimmungsausschuss-29-november-2026/
-- https://hermrigen.ch/aus-dem-gemeinderat-januar-2025/
-- https://hermrigen.ch/aus-dem-gemeinderat-juni-2025/
-- https://hermrigen.ch/aus-dem-gemeinderat-juni-ii/
-- https://hermrigen.ch/aus-dem-gemeinderat-maerz-2025/
-- https://hermrigen.ch/aus-dem-gemeinderat-november-2024/
-- https://hermrigen.ch/bott-zur-gemeindeversammlung-vom-freitag-13-november-2026/
-- https://hermrigen.ch/informationen-aus-dem-gemeinderat-maerz-2026/
-- https://hermrigen.ch/informationen-aus-dem-gemeinderat-november-2025/
-- https://hermrigen.ch/informationen-aus-dem-gemeinderat-oktober-2025/
-- https://hermrigen.ch/kampagne-gegen-plastik-in-der-gruenabfuhr/
 - https://hermrigen.ch/kontakt/
-- https://hermrigen.ch/newsbeitrag-y/
-- https://hermrigen.ch/protokoll-der-gemeindeversammlung-vom-3-juni-2026/
-- https://hermrigen.ch/traktanden-gemeindeversammlung-vom-13-november-2026/
 
 ## https://www.moerigen.ch/
 
 ### Geänderte Seiten
 - https://www.moerigen.ch/
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.moerigen.ch/?Abstimmungen_=&Wahlen=
 - https://www.moerigen.ch/?Pressemitteilung=
 - https://www.moerigen.ch/abstimmungen-wahlen-0
@@ -224,32 +224,37 @@
 ## https://www.walperswil.ch/de/
 
 ### Geänderte Seiten
-- https://www.walperswil.ch/de/aktuelles/dorfzyt/
-- https://www.walperswil.ch/de/sitemap/
-- https://www.walperswil.ch/de/verwaltung/formulare.php
-
-### Neue Seiten
-- https://www.walperswil.ch/de/aktuelles/dorfzyt/?searchTerm=&pageId=2
-
-### Nicht mehr gefundene Seiten
-- https://www.walperswil.ch/de/aktuelles/dorfzyt/?pageId=2
+- https://www.walperswil.ch/de/dorfleben/kultur-freizeit/
 
 ## https://hagneck.ch/
 
 ### Geänderte Seiten
 - https://hagneck.ch/kontakt/
 
-## https://www.siselen.ch/
+## https://www.luescherz.ch/startseite
 
 ### Geänderte Seiten
-- https://www.siselen.ch/verwaltung/gemeindereglemente
+- https://www.luescherz.ch/aktuell/news-archiv/10
+- https://www.luescherz.ch/aktuell/news-archiv/11
+- https://www.luescherz.ch/aktuell/news-archiv/2
+- https://www.luescherz.ch/aktuell/news-archiv/3
+- https://www.luescherz.ch/aktuell/news-archiv/5
+- https://www.luescherz.ch/aktuell/news-archiv/6
+- https://www.luescherz.ch/aktuell/news-archiv/7
+- https://www.luescherz.ch/aktuell/news-archiv/8
+- https://www.luescherz.ch/aktuell/news-archiv/9
+
+## https://www.bruettelen.ch/
+
+### Geänderte Seiten
+- https://www.bruettelen.ch/datenschutz
 
 ## https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
 ### Geänderte Seiten
 - https://www.treiten.ch/gemeinde-treiten/gemeinde/index.php
 
-### Nicht mehr gefundene Seiten
+### Neue Seiten
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/index.php?navid=228709228709
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/index.php?navid=500622500622
 - https://www.treiten.ch/gemeinde-treiten/Gemeinderat/personen/1815138049.php
@@ -337,7 +342,6 @@
 - https://www.ins.ch/de/aktuelles/archiv.php
 - https://www.ins.ch/de/aktuelles/meldungen/Weihnachtsbaumverkauf.php
 - https://www.ins.ch/de/aktuelles/meldungen/erhebungsstelle-agrarvollzug.php
-- https://www.ins.ch/de/aktuelles/meldungen/gemeindeversammlung-27.11.2026.php
 - https://www.ins.ch/de/aktuelles/meldungen/stelle-fachmann-betriebsunterhalt.php
 - https://www.ins.ch/de/barrierefrei/
 - https://www.ins.ch/de/datenschutz/
@@ -346,7 +350,14 @@
 - https://www.ins.ch/de/sitemap/
 - https://www.ins.ch/de/veranstaltungen/
 - https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2026
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2209
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2110
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=1
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=3
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=4
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=6
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=7
+- https://www.ins.ch/de/verwaltung/dienstleistungen/
+- https://www.ins.ch/de/verwaltung/dienstleistungen/?fnsContrast=1
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=E
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=F
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=G
@@ -362,29 +373,71 @@
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=X
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Y
 - https://www.ins.ch/de/verwaltung/dienstleistungen/?startCharFilter=Z
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=10
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=11
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=110
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=118
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=119
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=12
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=137
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=14
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=149
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=151
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=152
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=155
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=171
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=173
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=181
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=2
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=20
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=201
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=202
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=206
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=21
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=213
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=214
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=25
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=27
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=32
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=37
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=39
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=4
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=41
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=48
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=5
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=50
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=51
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=59
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=6
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=60
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=64
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=66
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=7
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=72
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=75
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=76
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=79
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=8
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=80
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=83
+- https://www.ins.ch/de/verwaltung/dienstleistungen/detail/detail.php?i=89
 
 ### Neue Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2110
-- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
+- https://www.ins.ch/de/aktuelles/meldungen/anlaesse-2027.php
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2201
 
 ### Nicht mehr gefundene Seiten
-- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2065
+- https://www.ins.ch/de/aktuelles/meldungen/gemeindeversammlung-27.11.2026.php
+- https://www.ins.ch/de/veranstaltungen/detail/detail.php?i=2209
+- https://www.ins.ch/de/verwaltung/abteilungen/detail/detail.php?i=8
 
 ## https://www.erlach.ch/de/
 
-### Geänderte Seiten
-- https://www.erlach.ch/de/
-- https://www.erlach.ch/de/aktuelles/
-- https://www.erlach.ch/de/aktuelles/meldungen/Strassenbelagssanierung-Galsstrasse2.php
-- https://www.erlach.ch/de/impressum/
-- https://www.erlach.ch/de/verwaltung/dienstleistungen/67_ga-tageskarten
-- https://www.erlach.ch/de/verwaltung/lebenslagen/49_reservationen
-
 ### Neue Seiten
-- https://www.erlach.ch/de/aktuelles/meldungen/Adventsfenster-und-Anlaesse.php
+- https://www.erlach.ch/de/index.php
 
 ### Nicht mehr gefundene Seiten
-- https://www.erlach.ch/de/verwaltung/dienstleistungen/109_regionale-kinder--und-jugendfachstelle-t%C3%A4uffelen---ins---erlach
+- https://www.erlach.ch/de/veranstaltungen/588_bar
 
 ## https://www.gampelen.ch/
 
@@ -394,23 +447,18 @@
 ## https://www.kerzers.ch/
 
 ### Geänderte Seiten
+- https://www.kerzers.ch/
 - https://www.kerzers.ch/gemeinde/heute/agenda.html/15
-- https://www.kerzers.ch/gemeinde/heute/publikationen.html/9
-- https://www.kerzers.ch/gemeinde/ortsplanung/ortsplanung.html/132
-- https://www.kerzers.ch/leben-in-kerzers/freizeit/sehenswuerdigkeiten.html/28
-- https://www.kerzers.ch/leben-in-kerzers/kerzers-im-alter/alters-und-pflegeheime-des-seebezirks.html/44
-- https://www.kerzers.ch/leben-in-kerzers/kirche.html/37
-- https://www.kerzers.ch/leben-in-kerzers/neu-in-kerzers.html/26
-- https://www.kerzers.ch/leben-in-kerzers/vereine.html/35
-- https://www.kerzers.ch/portrait/ortsplan.html/23
-- https://www.kerzers.ch/portrait/serie-blick-hinter-die-kulissen-der-gemeinde-kerzers.html/24
-- https://www.kerzers.ch/portrait/webcam.html/25
-- https://www.kerzers.ch/portrait/zahlen-fakten.html/21
-- https://www.kerzers.ch/services/sitemap.html/5
-- https://www.kerzers.ch/services/sitemap.html/5/l/desitemap
+- https://www.kerzers.ch/leben-in-kerzers/bildung/berufsberatung.html/39
+- https://www.kerzers.ch/leben-in-kerzers/integration.html/36
+
+### Neue Seiten
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/214/eventdate/194
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/216/eventdate/193
+- https://www.kerzers.ch/route/core-hp/page/19
+- https://www.kerzers.ch/route/core-hp/page/35
+- https://www.kerzers.ch/route/core-hp/page/36
 
 ### Nicht mehr gefundene Seiten
-- https://www.kerzers.ch/route/core-hp/page/19
-- https://www.kerzers.ch/route/core-hp/page/37
-- https://www.kerzers.ch/route/core-hp/page/39
-- https://www.kerzers.ch/route/core-hp/page/44
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/381/eventdate/262
+- https://www.kerzers.ch/gemeinde/heute/agenda.html/17/event/64/eventdate/367
